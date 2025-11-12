@@ -1,4 +1,4 @@
-site_name: Deel Generative Models
+site_name: Deep Generative Models
 site_url: https://sut-cs-gm.github.io
 theme:
   name: material
@@ -53,7 +53,7 @@ plugins:
       categories_toc: false
   - tags:
       tags_file: blog/tags.md
-  - social
+  # - social
   # - offline
 
 extra:
