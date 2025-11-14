@@ -28,4 +28,4 @@ Practical: @shanster
 
 Good luck! 🚀
 
-[Download Slides](/assets/homeworks/GM_HW1.zip){:target="_blank" .md-button .md-button--primary }
+[Download Homework](/assets/homeworks/GM_HW1.zip){:target="_blank" .md-button .md-button--primary }
