@@ -1,5 +1,5 @@
 ---
-title: Workshops
+title: Homeworks
 ---
 
 # Introduction
