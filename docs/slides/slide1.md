@@ -14,7 +14,7 @@ description: This page contains the slide 1 of the course.
         height="560">
 </object> -->
 
-[Download Slides](/assets/lectures/slides/1-Introduction.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](/assets/slides/1-Introduction.pdf){:target="_blank" .md-button .md-button--primary }
 
 ### Supplementary Material
 
@@ -28,7 +28,7 @@ description: This page contains the slide 1 of the course.
         height="560">
 </object> -->
 
-[Download Slides](/assets/lectures/slides/2-PGM-Representation.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](/assets/slides/2-PGM-Representation.pdf){:target="_blank" .md-button .md-button--primary }
 
 ### Supplementary Material
 
@@ -42,7 +42,7 @@ description: This page contains the slide 1 of the course.
         height="560">
 </object> -->
 
-[Download Slides](/assets/lectures/slides/3-PGM-Inference.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](/assets/slides/3-PGM-Inference.pdf){:target="_blank" .md-button .md-button--primary }
 
 ### Supplementary Material
 
@@ -55,7 +55,7 @@ description: This page contains the slide 1 of the course.
         height="560">
 </object> -->
 
-[Download Slides](/assets/lectures/slides/4-PGM-Learning.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](/assets/slides/4-PGM-Learning.pdf){:target="_blank" .md-button .md-button--primary }
 
 ### Supplementary Material
 
@@ -68,7 +68,7 @@ description: This page contains the slide 1 of the course.
         height="560">
 </object> -->
 
-[Download Slides](/assets/lectures/slides/5-Autoregressive-Models.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](/assets/slides/5-Autoregressive-Models.pdf){:target="_blank" .md-button .md-button--primary }
 
 ### Supplementary Material
 
@@ -81,7 +81,7 @@ description: This page contains the slide 1 of the course.
         height="560">
 </object> -->
 
-[Download Slides](/assets/lectures/slides/6-Variational-Autoencoder.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](/assets/slides/6-Variational-Autoencoder.pdf){:target="_blank" .md-button .md-button--primary }
 
 ### Supplementary Material
 
@@ -94,6 +94,6 @@ description: This page contains the slide 1 of the course.
         height="560">
 </object> -->
 
-[Download Slides](/assets/lectures/slides/8-GAN.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](/assets/slides/8-GAN.pdf){:target="_blank" .md-button .md-button--primary }
 
 ### Supplementary Material
