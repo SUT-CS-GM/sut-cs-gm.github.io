@@ -75,7 +75,7 @@ extra:
 nav:
   - Home:
     - index.md
-  - Slides:
+  - Course Material:
     - slides/slide1.md
   - Exams:
     - exams/midterm.md
