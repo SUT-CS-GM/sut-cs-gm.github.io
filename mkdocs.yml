@@ -77,6 +77,8 @@ nav:
     - index.md
   - Course Material:
     - slides/slide1.md
+  - Homeworks:
+    - homeworks/index.md
   - Exams:
     - exams/midterm.md
     - exams/final.md
