@@ -71,9 +71,9 @@ This course provides an in-depth introduction to the field of Deep Generative Mo
 ### Lectures
 
 
-| <div style="width:100px;">Lecture #</div> | <div style="width:250px;">Topic of the Week</div>                 |                <div style="width:110px;">Lecture</div>                | <div style="width:100px;">Homework</div> |
-|:-----------------------------------------:|:------------------------------------------------------------------|:---------------------------------------------------------------------:|:----------------------------------------:|
-|                 Lecture 1                 | Introduction                                                      | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ مهر<br></div>  |                                          |
+| <div style="width:100px;">Lecture #</div> | <div style="width:250px;">Topic of the Week</div>                 |                <div style="width:110px;">Lecture</div>                | <div style="width:100px;">Homework</div> | <div style="width:100px;">Material</div> |
+|:-----------------------------------------:|:------------------------------------------------------------------|:---------------------------------------------------------------------:|:----------------------------------------:|:----------------------------------------:|
+|                 Lecture 1                 | Introduction                                                      | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ مهر<br></div>  |                                          |<p>[:fontawesome-link:]([https://t.me/msmrexe](https://sut-cs-gm.github.io/slides/slide1/#slide-1-introduction)){:target="_blank"} Slide 1</p>|
 |                 Lecture 2                 | Intro. to Probabilistic Graphical Models                          | <div style="direction: rtl;font-family: Vazirmatn;">۲۲ مهر<br></div>  |                                          |
 |                 Lecture 3                 | Intro. to Probabilistic Graphical Models                          | <div style="direction: rtl;font-family: Vazirmatn;">۲۷ مهر<br></div>  |                                          |
 |                 Lecture 4                 | Intro. to Probabilistic Graphical Models                          | <div style="direction: rtl;font-family: Vazirmatn;">۲۹ مهر<br></div>  |                                          |
