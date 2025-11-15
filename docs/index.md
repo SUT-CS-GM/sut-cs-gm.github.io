@@ -1,4 +1,5 @@
 ---
+title: Generative Models
 description: Course overview for the Fall 2025 offering of Deep Generative Models at Sharif University of Technology.
 hide:
   - feedback
@@ -14,7 +15,7 @@ Welcome to the Fall 2025 offering of the Deep Generative Models course at SUT! W
 
 
 <details markdown="1">
-<summary><b>Course Description</b> (Click to expand)</summary>
+<summary><b>Course Description</b> (Click to Expand)</summary>
 <br/>
 This course provides a comprehensive, in-depth introduction to the principles, algorithms, and applications of deep generative modeling. We will explore a wide array of foundational and state-of-the-art architectures, beginning with core probabilistic concepts.
 
@@ -27,7 +28,7 @@ Key topics are structured around three main pillars:
 
 
 <details markdown="1">
-<summary><b>Learning Objectives</b> (Click to expand)</summary>
+<summary><b>Learning Objectives</b> (Click to Expand)</summary>
 <br/>
 Upon successful completion of this course, students will be able to:
 
