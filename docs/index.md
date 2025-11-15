@@ -42,7 +42,7 @@ Upon successful completion of this course, students will be able to:
 ## Instructor
 
 <div class="grid cards" markdown>
--   ![Instructor Avatar](../assets/images/staff/seyedsalehi.jpeg){align=left width="150"}
+-   ![Instructor Avatar](../assets/images/staff/Fatemeh-Seyedsalehi.jpeg){align=left width="150"}
     <span class="description">
         <p>**Dr. Fatemeh Seyyedsalehi**</p>
         <p>Instructor</p>
