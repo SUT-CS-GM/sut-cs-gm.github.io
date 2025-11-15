@@ -165,6 +165,7 @@ The grading for the Deep Generative Models course is structured as follows:
         <p>[ms.maryamrezaee@gmail.com](mailto:ms.maryamrezaee@gmail.com)</p>
         <p>
         [:fontawesome-brands-telegram:](https://t.me/msmrexe){:target="_blank"}
+        [:fontawesome-brands-github:](https://github.com/msmrexe){:target="_blank"}
         [:material-web:](https://msmaryamrezaee.github.io){:target="_blank"}
         </p>
     </span>
@@ -246,15 +247,18 @@ The grading for the Deep Generative Models course is structured as follows:
         </p>
     </span>
 
--   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
-    <span class="description">
-        <p>**Amir Mohammad Fakhimi**</p>
-        <p>Teaching Assistant</p>
-        <p>[fakhimi.amirmohamad@gmail.com](mailto:fakhimi.amirmohamad@gmail.com)</p>
-        <p>
-        [:fontawesome-brands-telegram:](https://t.me/AmirMohammadFakhimi){:target="_blank"}
-        </p>
-    </span>
+-   ![Instructor Avatar](assets/images/staff/Amir-Mohammad-Fakhimi.jpeg){align=left width="150"}
+    <span class="description">
+        <p>**Amir Mohammad Fakhimi**</p>
+        <p>Teaching Assistant</p>
+        <p>[fakhimi.amirmohamad@gmail.com](mailto:fakhimi.amirmohamad@gmail.com)</p>
+        <p>
+        [:fontawesome-brands-telegram:](https://t.me/AmirMohammadFakhimi){:target="_blank"}
+        [:fontawesome-brands-github:](https://github.com/AmirMohammadFakhimi){:target="_blank"}
+        [:fontawesome-brands-linkedin-in:](https://linkedin.com/in/amir-mohammad-fakhimi){:target="_blank"}
+        [:material-web:](https://www.amfakhimi.com/){:target="_blank"}
+        </p>
+    </span>
 
 -   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
     <span class="description">
