@@ -69,17 +69,13 @@ extra:
 #copyright: Made by @iMohammad97
 
 nav:
-  - Home:
-    - index.md
-  - Course Material:
-    - material/index.md
-  - Homeworks:
-    - homeworks/index.md
+  - Home: index.md
+  - Course Material: material/index.md
+  - Homeworks: homeworks/index.md
   - Exams:
     - exams/midterm.md
     - exams/final.md
-  - Resources:
-    - resources/index.md
+  - Resources: resources/index.md
 
 extra_css:
   - stylesheets/extra.css

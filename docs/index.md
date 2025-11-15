@@ -91,34 +91,34 @@ Upon successful completion of this course, students will be able to:
 
 | <div style="width:100px;">#</div> | <div style="width:250px;">Topic of Session</div>           |           <div style="width:110px;">Date</div>           | <div style="width:100px;">Material</div> |
 |:-----------------------------------------:|:------------------------------------------------------------------|:---------------------------------------------------------------------:|:----------------------------------------:|
-|           1           | Introduction                                                      | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ مهر<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-1-introduction">Topic 1</a>|
-|           2           | Intro. to Probabilistic Graphical Models                            | <div style="direction: rtl;font-family: Vazirmatn;">۲۲ مهر<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-2-pgm-representation">Topic 2</a>|
-|           3           | Intro. to Probabilistic Graphical Models                            | <div style="direction: rtl;font-family: Vazirmatn;">۲۷ مهر<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-3-pgm-inference">Topic 3</a>|
-|           4           | Intro. to Probabilistic Graphical Models                            | <div style="direction: rtl;font-family: Vazirmatn;">۲۹ مهر<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-4-pgm-learning">Topic 4</a>|
-|           5           | Autoregressive Models                                             | <div style="direction: rtl;font-family: Vazirmatn;">۴ آبان<br></div>  |<a href="https://sut-cs-gm.github.io/material/#topic-5-autoregressive-models">Topic 5</a>|
-|           6           | Autoregressive Models                                             | <div style="direction: rtl;font-family: Vazirmatn;">۶ آبان<br></div>  |<a href="https://sut-cs-gm.github.io/material/#topic-5-autoregressive-models">Topic 5</a>|
-|           7           | VAEs                                                              | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آبان<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-6-variational-autoencoder">Topic 6</a>|
-|           8           | VAEs                                                              | <div style="direction: rtl;font-family: Vazirmatn;">۱۳ آبان<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-6-variational-autoencoder">Topic 6</a>|
-|           9           | GANs                                                              | <div style="direction: rtl;font-family: Vazirmatn;">۱۸ آبان<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-7-gan">Topic 7</a>|
-|           10          | GANs                                                              | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ آبان<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-7-gan">Topic 7</a>|
-|           11          | Normalizing Flows - Invertible Models                             | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> | |
-|           12          | Energy Based Models                                               | <div style="direction: rtl;font-family: Vazirmatn;">۲۷ آبان<br></div> | |
-|           13          | Score Based Models and SDEs                                       |  <div style="direction: rtl;font-family: Vazirmatn;">۲ آذر<br></div> | |
-|           14          | Score Based Models and SDEs                                       |  <div style="direction: rtl;font-family: Vazirmatn;">۴ آذر<br></div> | |
-|           15          | <div style="font-weight: bold; color: red;" > Midterm Exam</div>  |  <div style="direction: rtl;font-family: Vazirmatn;">۹ آذر<br></div> | |
-|           16          | Flow Matching                                                     | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آذر<br></div> | |
-|           17          | Intro. to Diffusion Models                                        | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ آذر<br></div> | |
-|           18          | Diffusion Models and ODE/Flows                                    | <div style="direction: rtl;font-family: Vazirmatn;">۱۸ آذر<br></div> | |
-|           19          | Diffusion Models and ODE/Flows                                    | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آذر<br></div> | |
-|           20          | Text-to-Image Generation with Diffusion Models                    | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آذر<br></div> | |
-|           21          | Diffusion for Discrete Data                                       | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div> | |
-|           22          | Advanced Topics in Generative Models                              |  <div style="direction: rtl;font-family: Vazirmatn;">۲ دی<br></div> | |
-|           23          | Intro. to LLMs and LMMs                                           |  <div style="direction: rtl;font-family: Vazirmatn;">۷ دی<br></div> | |
-|           24          | LLM Emergent Abilities                                            |  <div style="direction: rtl;font-family: Vazirmatn;">۹ دی<br></div> | |
-|           25          | LLM Emergent Abilities                                            |  <div style="direction: rtl;font-family: Vazirmatn;">۱۴ دی<br></div> | |
-|           26          | Reasoning in LLMs                                                 |  <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div> | |
-|           27          | Reasoning in LLMs                                                 |  <div style="direction: rtl;font-family: Vazirmatn;">۲۱ دی<br></div> | |
-|           28          | Reasoning in LLMs                                                 |  <div style="direction: rtl;font-family: Vazirmatn;">۲۳ دی<br></div> | |
+| 1 | Introduction                                                      | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ مهر<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-1-introduction">Topic 1</a>|
+| 2 | Intro. to Probabilistic Graphical Models                            | <div style="direction: rtl;font-family: Vazirmatn;">۲۲ مهر<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-2-pgm-representation">Topic 2</a>|
+| 3 | Intro. to Probabilistic Graphical Models                            | <div style="direction: rtl;font-family: Vazirmatn;">۲۷ مهر<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-3-pgm-inference">Topic 3</a>|
+| 4 | Intro. to Probabilistic Graphical Models                            | <div style="direction: rtl;font-family: Vazirmatn;">۲۹ مهر<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-4-pgm-learning">Topic 4</a>|
+| 5 | Autoregressive Models                                             | <div style="direction: rtl;font-family: Vazirmatn;">۴ آبان<br></div>  |<a href="https://sut-cs-gm.github.io/material/#topic-5-autoregressive-models">Topic 5</a>|
+| 6 | Autoregressive Models                                             | <div style="direction: rtl;font-family: Vazirmatn;">۶ آبان<br></div>  |<a href="https://sut-cs-gm.github.io/material/#topic-5-autoregressive-models">Topic 5</a>|
+| 7 | VAEs                                                              | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آبان<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-6-variational-autoencoder">Topic 6</a>|
+| 8 | VAEs                                                              | <div style="direction: rtl;font-family: Vazirmatn;">۱۳ آبان<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-6-variational-autoencoder">Topic 6</a>|
+| 9 | GANs                                                              | <div style="direction: rtl;font-family: Vazirmatn;">۱۸ آبان<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-7-gan">Topic 7</a>|
+| 10 | GANs                                                              | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ آبان<br></div> |<a href="https://sut-cs-gm.github.io/material/#topic-7-gan">Topic 7</a>|
+| 11 | Normalizing Flows - Invertible Models                             | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> | |
+| 12 | Energy Based Models                                               | <div style="direction: rtl;font-family: Vazirmatn;">۲۷ آبان<br></div> | |
+| 13 | Score Based Models and SDEs                                       |  <div style="direction: rtl;font-family: Vazirmatn;">۲ آذر<br></div> | |
+| 14 | Score Based Models and SDEs                                       |  <div style="direction: rtl;font-family: Vazirmatn;">۴ آذر<br></div> | |
+| 15 | <div style="font-weight: bold; color: red;" > Midterm Exam</div>  |  <div style="direction: rtl;font-family: Vazirmatn;">۹ آذر<br></div> | |
+| 16 | Flow Matching                                                     | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آذر<br></div> | |
+| 17 | Intro. to Diffusion Models                                        | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ آذر<br></div> | |
+| 18 | Diffusion Models and ODE/Flows                                    | <div style="direction: rtl;font-family: Vazirmatn;">۱۸ آذر<br></div> | |
+| 19 | Diffusion Models and ODE/Flows                                    | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آذر<br></div> | |
+| 20 | Text-to-Image Generation with Diffusion Models                    | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آذر<br></div> | |
+| 21 | Diffusion for Discrete Data                                       | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div> | |
+| 22 | Advanced Topics in Generative Models                              |  <div style="direction: rtl;font-family: Vazirmatn;">۲ دی<br></div> | |
+| 23 | Intro. to LLMs and LMMs                                           |  <div style="direction: rtl;font-family: Vazirmatn;">۷ دی<br></div> | |
+| 24 | LLM Emergent Abilities                                            |  <div style="direction: rtl;font-family: Vazirmatn;">۹ دی<br></div> | |
+| 25 | LLM Emergent Abilities                                            |  <div style="direction: rtl;font-family: Vazirmatn;">۱۴ دی<br></div> | |
+| 26 | Reasoning in LLMs                                                 |  <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div> | |
+| 27 | Reasoning in LLMs                                                 |  <div style="direction: rtl;font-family: Vazirmatn;">۲۱ دی<br></div> | |
+| 28 | Reasoning in LLMs                                                 |  <div style="direction: rtl;font-family: Vazirmatn;">۲۳ دی<br></div> | |
 
 ### Homeworks
 

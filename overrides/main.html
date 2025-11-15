@@ -7,3 +7,11 @@
     {{ page.title | striptags }} | {{ config.site_name }}
   {% endif %}
 {% endblock %}
+
+{% block content %}
+  {% if page.content %}
+    {{ page.content }}
+  {% else %}
+    {% include "partials/content.html" %}
+  {% endif %}
+{% endblock %}
