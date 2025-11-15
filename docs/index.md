@@ -8,6 +8,7 @@ hide:
 # Course Overview
 
 Welcome to the Fall 2025 offering of the Deep Generative Models course at SUT! We are excited to have you join us on this journey into one of the most dynamic and foundational fields in modern artificial intelligence.
+
 * **University:** Sharif University of Technology (SUT)
 * **Department:** Department of Mathematical Sciences
 * **Group:** Computer Science (CS)
