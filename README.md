@@ -72,4 +72,3 @@ mkdocs serve
 
 5. **Open in browser:**
 Open [**http://127.0.0.1:8000**](https://www.google.com/search?q=http://127.0.0.1:8000) in your browser to see the live preview. The site will automatically refresh as you save changes to the Markdown files.
-```
