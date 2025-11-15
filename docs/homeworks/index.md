@@ -24,7 +24,7 @@ Please read the following policies carefully before submitting your work. These 
 
 ## Homework 1: PGMs, ARs
 
-* **Deadline:** 23 Aban (23:59)
+* **Deadline:** 23 Aban 1404 (23:59)
 * **TAs Responsible:**
     * Theoretical: [Firoozeh Abrishami](https://t.me/Frz_abrisham)
     * Practical: [Shaygan Adim](https://t.me/shanster)
@@ -36,7 +36,7 @@ Please read the following policies carefully before submitting your work. These 
 
 ## Homework 2: VAEs, GANs, Flows
 
-* **Deadline:** 10 Azar (23:59)
+* **Deadline:** 10 Azar 1404 (23:59)
 * **TAs Responsible:**
     * VAEs: [Amir Mohammad Fakhimi](https://t.me/AmirMohammadFakhimi)
     * GANs, Flows: [Mahshid Dehghani](https://t.me/Mahshid_Dehghani)
@@ -49,10 +49,10 @@ Please read the following policies carefully before submitting your work. These 
 
 ## Homework 3: EBMs, SDEs, Flow Matching
 
-* **Deadline:** 29 Azar (23:59)
+* **Deadline:** 29 Azar 1404 (23:59)
 * **TAs Responsible:**
-    * Theoretical: [Name]
-    * Practical: [Name]
+    * Theoretical: [Name]()
+    * Practical: [Name]()
 
 [Download Assignment](/assets/homeworks/GM_HW3.zip){:target="_blank" .md-button .md-button--primary .disabled }
 [Download Solution](/assets/homeworks/GM_HW3_Sol.zip){:target="_blank" .md-button .disabled }
@@ -61,10 +61,10 @@ Please read the following policies carefully before submitting your work. These 
 
 ## Homework 4: Diffusion, ODEs
 
-* **Deadline:** 15 Dey (23:59)
+* **Deadline:** 15 Dey 1404 (23:59)
 * **TAs Responsible:**
-    * Theoretical: [Name]
-    * Practical: [Name]
+    * Theoretical: [Name]()
+    * Practical: [Name]()
 
 [Download Assignment](/assets/homeworks/GM_HW4.zip){:target="_blank" .md-button .md-button--primary .disabled }
 [Download Solution](/assets/homeworks/GM_HW4_Sol.zip){:target="_blank" .md-button .disabled }
@@ -73,10 +73,10 @@ Please read the following policies carefully before submitting your work. These 
 
 ## Homework 5: LLMs, LMMs
 
-* **Deadline:** 30 Dey (23:59)
+* **Deadline:** 30 Dey 1404 (23:59)
 * **TAs Responsible:**
-    * Theoretical: [Name]
-    * Practical: [Name]
+    * Theoretical: [Name]()
+    * Practical: [Name]()
 
 [Download Assignment](/assets/homeworks/GM_HW5.zip){:target="_blank" .md-button .md-button--primary .disabled }
 [Download Solution](/assets/homeworks/GM_HW5_Sol.zip){:target="_blank" .md-button .disabled }
