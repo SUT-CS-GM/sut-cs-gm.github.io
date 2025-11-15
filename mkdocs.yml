@@ -60,15 +60,11 @@ extra:
   generator: false
   social:
     - icon: material/email-outline
-      link: mailto:sut-cs-gm@gmail.com
+      link: mailto:seyyedsalehi@sharif.edu
     - icon: fontawesome/brands/github
       link: https://github.com/sut-cs-gm
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@sut-cs-gm
-    - icon: fontawesome/brands/x-twitter
-      link: https://x.com/sut-cs-gm
     - icon: fontawesome/brands/telegram
-      link: https://t.me/sut-cs-gm
+      link: https://t.me/SUT_GM_4041
 
 #copyright: Made by @iMohammad97
 
