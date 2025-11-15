@@ -6,7 +6,7 @@ theme:
   font:
     text: Inter
     code: Red Hat Mono
-  logo: assets/images/favicon/Sharif-Logo.svg
+  logo: assets/images/favicon/Sharif-Logo-Header.svg
   favicon: assets/images/favicon/Sharif-Logo.svg
   palette:
     # Palette toggle for automatic mode
