@@ -70,3 +70,8 @@ h5 {
 .md-typeset .grid.cards img[align=left] {
     border-radius: 4px;
 }
+
+/* Force all standard markdown tables to be full-width */
+.md-typeset table:not([class]) {
+  width: 100%;
+}

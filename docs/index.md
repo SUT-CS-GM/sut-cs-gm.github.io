@@ -119,14 +119,13 @@ Upon successful completion of this course, students will be able to:
 
 ### Homeworks
 
-| <div style="width:100px;">Homework</div> | <div style="width:110px;">Release</div> | <div style="width:100px;">Deadline</div> |
-|:---|:---:|:---:|
-| <a href="https://sut-cs-gm.github.io/homeworks/#homework-1-pgms-ars">Homework 1: PGMs, ARs</a> | <div style="direction: rtl;font-family: Vazirmatn;">۶ آبان<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آبان<br></div> |
-| <a href="https://sut-cs-gm.github.io/homeworks/#homework-2-vaes-gans-flows">Homework 2: VAEs, GANs, Flows</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۱۰ آذر<br></div> |
-| Homework 3: EBMs, SDEs, Flow Matching | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آذر<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۲۹ آذر<br></div> |
-| Homework 4: Diffusion, ODEs | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ دی<br></div> |
-| Homework 5: LLMs, LMMs | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ دی<br></div> |
-
+| Homework                                                                        | Release                                                              | Deadline                              |
+| :------------------------------------------------------------------------------ | :------------------------------------------------------------------: | :-----------------------------------: |
+| <a href="https://sut-cs-gm.github.io/homeworks/#homework-1-pgms-ars">Homework 1: PGMs, ARs</a> | <div style="direction: rtl;font-family: Vazirmatn;">۶ آبان<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آبان<br></div> |
+| <a href="https://sut-cs-gm.github.io/homeworks/#homework-2-vaes-gans-flows">Homework 2: VAEs, GANs, Flows</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۱۰ آذر<br></div>  |
+| Homework 3: EBMs, SDEs, Flow Matching                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۲۹ آذر<br></div> |
+| Homework 4: Diffusion, ODEs                                                     | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ دی<br></div>  |
+| Homework 5: LLMs, LMMs                                                          | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ دی<br></div>  |
 
 ## Logistics & Policies 
 
@@ -147,12 +146,12 @@ Upon successful completion of this course, students will be able to:
 
 The grading for the Deep Generative Models course is structured as follows:
 
-| Assessment Component | Points |
-| :--- | :---: |
-| Homeworks (5 practical & conceptual HWs) | 10 + [1 Extra Point] |
-| Midterm | 4 |
-| Final | 6 |
-| **Total** | **20 + [1 Extra Point]** |
+| Assessment Component                     | Points                   |
+| :--------------------------------------- | :----------------------: |
+| Homeworks (5 practical & conceptual HWs) | 10 + [1 Extra Point]     |
+| Midterm                                  | 4                        |
+| Final                                    | 6                        |
+| **Total**                                | **20 + [1 Extra Point]** |
 
 
 ## Head Assistant
