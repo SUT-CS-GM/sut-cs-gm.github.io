@@ -86,6 +86,7 @@ Upon successful completion of this course, students will be able to:
 
 ### Lectures
 
+<div style="width:100%; overflow-x: auto;">
 | #   | Topic of Session                                      | Material                                                                  | Date                                                                |
 |:---:|:------------------------------------------------------|:--------------------------------------------------------------------------|:-------------------------------------------------------------------:|
 | 1   | Introduction                                          | <a href="https://sut-cs-gm.github.io/material/#topic-1-introduction">Topic 1</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ مهر<br></div>  |
@@ -116,10 +117,11 @@ Upon successful completion of this course, students will be able to:
 | 26  | Reasoning in LLMs                                     |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>  |
 | 27  | Reasoning in LLMs                                     |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۲۱ دی<br></div>  |
 | 28  | Reasoning in LLMs                                     |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ دی<br></div>  |
-{: style="width:100%" }
+</div>
 
 ### Homeworks
 
+<div style="width:100%; overflow-x: auto;">
 | Homework                                                                        | Release                                                              | Deadline                              |
 | :------------------------------------------------------------------------------ | :------------------------------------------------------------------: | :-----------------------------------: |
 | <a href="https://sut-cs-gm.github.io/homeworks/#homework-1-pgms-ars">Homework 1: PGMs, ARs</a> | <div style="direction: rtl;font-family: Vazirmatn;">۶ آبان<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آبان<br></div> |
@@ -127,7 +129,7 @@ Upon successful completion of this course, students will be able to:
 | Homework 3: EBMs, SDEs, Flow Matching                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۲۹ آذر<br></div> |
 | Homework 4: Diffusion, ODEs                                                     | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ دی<br></div>  |
 | Homework 5: LLMs, LMMs                                                          | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ دی<br></div>  |
-{: style="width:100%" }
+</div>
 
 
 ## Logistics & Policies 
@@ -149,13 +151,14 @@ Upon successful completion of this course, students will be able to:
 
 The grading for the Deep Generative Models course is structured as follows:
 
+<div style="width:100%; overflow-x: auto;">
 | Assessment Component                     | Points                   |
 | :--------------------------------------- | :----------------------: |
 | Homeworks (5 practical & conceptual HWs) | 10 + [1 Extra Point]     |
 | Midterm                                  | 4                        |
 | Final                                    | 6                        |
 | **Total**                                | **20 + [1 Extra Point]** |
-{: style="width:100%" }
+</div>
 
 
 ## Head Assistant
