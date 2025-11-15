@@ -19,6 +19,7 @@ Welcome to the Fall 2025 offering of the Deep Generative Models course at SUT! W
 This course provides a comprehensive, in-depth introduction to the principles, algorithms, and applications of deep generative modeling. We will explore a wide array of foundational and state-of-the-art architectures, beginning with core probabilistic concepts.
 
 Key topics are structured around three main pillars:
+
 * **Foundational Generative Models:** Including Autoregressive Models, Variational Autoencoders (VAEs), Generative Adversarial Networks (GANs), Normalizing Flows, and Energy-Based Models (EBMs).
 * **Modern Diffusion & Score-Based Models:** A deep dive into Score-Based Models (SDEs), Flow Matching, and Diffusion Models, including their ODE/Flow formulations and applications like text-to-image generation.
 * **Large Language Models (LLMs):** A significant module dedicated to the principles of LLMs and LMMs, their emergent abilities, and their capacity for reasoning.
