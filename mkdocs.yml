@@ -72,7 +72,7 @@ nav:
   - Home:
     - index.md
   - Course Material:
-    - slides/index.md
+    - material/index.md
   - Homeworks:
     - homeworks/index.md
   - Exams:
