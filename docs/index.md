@@ -13,6 +13,7 @@ Welcome to the Fall 2025 offering of the Deep Generative Models course at SUT! W
 * **Department:** Department of Mathematical Sciences
 * **Group:** Computer Science (CS)
 
+<br/>
 
 <details markdown="1">
 <summary><b>Course Description</b> (Click to Expand)</summary>
