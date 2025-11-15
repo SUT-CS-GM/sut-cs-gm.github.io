@@ -135,13 +135,13 @@ Upon successful completion of this course, students will be able to:
 
 - **Lectures:** Held on Sunday and Tuesday from 10:30 to 12:30 in the Department of Mathematical Sciences, classroom 202.
 
-- **Late Policy:** You have a total budget of **15 slack days** for the semester, which can be used for any homework (practical or theoretical) without penalty.
-    - There is a **maximum limit of 5 slack days** per assignment. Submissions after 5 days will not be accepted, as solutions may be released.
-    - Once your 15-day total budget is exhausted, any further late submission (within the 5-day window) will be penalized **2% of the assignment's grade for every hour** of delay.
+- **Late Policy:** You have a total budget of *15 slack days* for the semester, which can be used for any homework (practical or theoretical) without penalty.
+    - There is a *maximum limit of 5 slack days* per assignment. Submissions after 5 days will not be accepted, as solutions may be released.
+    - Once your 15-day total budget is exhausted, any further late submission (within the 5-day window) will be penalized *2% of the assignment's grade for every hour* of delay.
 
-- **Collaboration & Resources:** Collaboration on assignments is permitted. However, your final submission must be written entirely by you. You **must clearly cite the names** of any collaborators and list all external resources (outside of course materials) that you used.
+- **Collaboration & Resources:** Collaboration on assignments is permitted. However, your final submission must be written entirely by you. You must clearly cite the names of any collaborators and list all external resources (outside of course materials) that you used.
 
-- **Practical Assignments:** Practical (coding) assignments will include an **oral defense**. You will not receive a grade for the practical portion if you cannot demonstrate sufficient mastery of your code during the defense.
+- **Practical Assignments:** Practical (coding) assignments will include an oral defense. You will not receive a grade for the practical portion if you cannot demonstrate sufficient mastery of your code during the defense.
 
 - **Support:** You can ask questions on [Telegram Group](https://t.me/SUT_GM_4041) or email the course instructor or head TA for office hours.
 
