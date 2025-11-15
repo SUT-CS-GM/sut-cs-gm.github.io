@@ -3,13 +3,13 @@ comments: False
 description: Course slides and supplementary materials for Generative Models.
 ---
 
-# Course Materials
+# Course Material
 
 This page hosts all lecture slides and supplementary reading materials for each topic covered in the course.
 
 ---
 
-## Topic 1: Introduction
+## **Topic 1: Introduction**
 
 [Download Slides](/assets/slides/1-Introduction.pdf){:target="_blank" .md-button .md-button--primary }
 
@@ -27,7 +27,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ---
 
-## Topic 2: PGM Representation
+## **Topic 2: PGM Representation**
 
 [Download Slides](/assets/slides/2-PGM-Representation.pdf){:target="_blank" .md-button .md-button--primary }
 
@@ -46,7 +46,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ---
 
-## Topic 3: PGM Inference
+## **Topic 3: PGM Inference**
 
 [Download Slides](/assets/slides/3-PGM-Inference.pdf){:target="_blank" .md-button .md-button--primary }
 
@@ -66,7 +66,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ---
 
-## Topic 4: PGM Learning
+## **Topic 4: PGM Learning**
 
 [Download Slides](/assets/slides/4-PGM-Learning.pdf){:target="_blank" .md-button .md-button--primary }
 
@@ -86,7 +86,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ---
 
-## Topic 5: Autoregressive Models
+## **Topic 5: Autoregressive Models**
 
 [Download Slides](/assets/slides/5-Autoregressive-Models.pdf){:target="_blank" .md-button .md-button--primary }
 
@@ -109,7 +109,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ---
 
-## Topic 6: Variational Autoencoder
+## **Topic 6: Variational Autoencoder**
 
 [Download Slides](/assets/slides/6-Variational-Autoencoder.pdf){:target="_blank" .md-button .md-button--primary }
 
@@ -129,7 +129,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ---
 
-## Topic 7: GAN
+## **Topic 7: GAN**
 
 [Download Slides](/assets/slides/7-GAN.pdf){:target="_blank" .md-button .md-button--primary }
 
