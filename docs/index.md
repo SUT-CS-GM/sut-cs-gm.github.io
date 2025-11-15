@@ -1,5 +1,5 @@
 ---
-title: Generative Models
+title: Home
 description: Course overview for the Fall 2025 offering of Deep Generative Models at Sharif University of Technology.
 hide:
   - feedback
@@ -260,7 +260,7 @@ The grading for the Deep Generative Models course is structured as follows:
     </span>
 
 -   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
-    <span classs="description">
+    <span class="description">
         <p>**Sara Karimi**</p>
         <p>Teaching Assistant</p>
         <p>[sarraah.karimi@gmail.com](mailto:sarraah.karimi@gmail.com)</p>

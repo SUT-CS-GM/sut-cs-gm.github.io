@@ -68,5 +68,5 @@ h5 {
 
 /* Add rounded corners to staff images in cards */
 .md-typeset .grid.cards img[align=left] {
-    border-radius: 8px;
+    border-radius: 4px;
 }

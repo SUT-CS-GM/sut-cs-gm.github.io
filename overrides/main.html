@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block title %}
+  {% if page.is_homepage %}
+    {{ config.site_name }} | SUT
+  {% else %}
+    {{ page.title | striptags }} | {{ config.site_name }}
+  {% endif %}
+{% endblock %}
