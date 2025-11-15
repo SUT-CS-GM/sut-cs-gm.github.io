@@ -4,7 +4,7 @@ theme:
   name: material
   custom_dir: overrides
   font:
-    text: Ubuntu
+    text: Inter
     code: Red Hat Mono
 #  logo: assets/logo.png
   favicon: assets/favicon/favicon.ico
