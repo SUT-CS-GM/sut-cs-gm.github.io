@@ -88,7 +88,6 @@ Upon successful completion of this course, students will be able to:
 
 | #   | Topic of Session                                      | Material                                                                  | Date                                                                |
 |:---:|:------------------------------------------------------|:--------------------------------------------------------------------------|:-------------------------------------------------------------------:|
-{: style="width:100%" }
 | 1   | Introduction                                          | <a href="https://sut-cs-gm.github.io/material/#topic-1-introduction">Topic 1</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ مهر<br></div>  |
 | 2   | Intro. to Probabilistic Graphical Models                | <a href="https://sut-cs-gm.github.io/material/#topic-2-pgm-representation">Topic 2</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۲ مهر<br></div>  |
 | 3   | Intro. to Probabilistic Graphical Models                | <a href="https://sut-cs-gm.github.io/material/#topic-3-pgm-inference">Topic 3</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۷ مهر<br></div>  |
@@ -117,17 +116,19 @@ Upon successful completion of this course, students will be able to:
 | 26  | Reasoning in LLMs                                     |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>  |
 | 27  | Reasoning in LLMs                                     |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۲۱ دی<br></div>  |
 | 28  | Reasoning in LLMs                                     |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ دی<br></div>  |
+{: style="width:100%" }
 
 ### Homeworks
 
 | Homework                                                                        | Release                                                              | Deadline                              |
 | :------------------------------------------------------------------------------ | :------------------------------------------------------------------: | :-----------------------------------: |
-{: style="width:100%" }
 | <a href="https://sut-cs-gm.github.io/homeworks/#homework-1-pgms-ars">Homework 1: PGMs, ARs</a> | <div style="direction: rtl;font-family: Vazirmatn;">۶ آبان<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آبان<br></div> |
 | <a href="https://sut-cs-gm.github.io/homeworks/#homework-2-vaes-gans-flows">Homework 2: VAEs, GANs, Flows</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۱۰ آذر<br></div>  |
 | Homework 3: EBMs, SDEs, Flow Matching                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۲۹ آذر<br></div> |
 | Homework 4: Diffusion, ODEs                                                     | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ دی<br></div>  |
 | Homework 5: LLMs, LMMs                                                          | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ دی<br></div>  |
+{: style="width:100%" }
+
 
 ## Logistics & Policies 
 
@@ -150,11 +151,11 @@ The grading for the Deep Generative Models course is structured as follows:
 
 | Assessment Component                     | Points                   |
 | :--------------------------------------- | :----------------------: |
-{: style="width:100%" }
 | Homeworks (5 practical & conceptual HWs) | 10 + [1 Extra Point]     |
 | Midterm                                  | 4                        |
 | Final                                    | 6                        |
 | **Total**                                | **20 + [1 Extra Point]** |
+{: style="width:100%" }
 
 
 ## Head Assistant
