@@ -1,4 +1,4 @@
-# Generative Models (Fall 2025) - Course Website
+# Generative Models (Fall 2025) | Course Website
 
 This repository contains the source code for the official course website for **Generative Models (Fall 2025)** at Sharif University of Technology.
 

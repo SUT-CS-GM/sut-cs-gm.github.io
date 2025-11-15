@@ -71,7 +71,18 @@ h5 {
     border-radius: 4px;
 }
 
-/* Force all standard markdown tables to be full-width */
-.md-typeset table:not([class]) {
+/*
+  Overrides the Material theme's default responsive table behavior
+  (which is to make them scroll horizontally) and forces them to
+  be 100% width.
+*/
+
+/* 1. Stop the theme's responsive wrapper from scrolling */
+.md-typeset__table {
+  overflow-x: hidden;
+}
+
+/* 2. Force the table *inside* that wrapper to be 100% width */
+.md-typeset__table table {
   width: 100%;
 }
