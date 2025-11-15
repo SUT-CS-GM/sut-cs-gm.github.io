@@ -72,17 +72,23 @@ h5 {
 }
 
 /*
-  Overrides the Material theme's default responsive table behavior
-  (which is to make them scroll horizontally) and forces them to
-  be 100% width.
+  Force 100% width tables and override Material theme's
+  responsive table JavaScript.
 */
 
-/* 1. Stop the theme's responsive wrapper from scrolling */
-.md-typeset__table {
-  overflow-x: hidden;
+/* 1. Make tables 100% width on initial load */
+.md-typeset table:not([class]) {
+  width: 100%;
 }
 
-/* 2. Force the table *inside* that wrapper to be 100% width */
+/* 2. Target the wrapper div the theme's JS adds */
+.md-typeset__table {
+  overflow-x: hidden !important; /* Stop the horizontal scroll */
+}
+
+/* 3. Force the table *inside* the wrapper to stay 100% width
+      and override the theme's inline 'min-width' style. */
 .md-typeset__table table {
-  width: 100%;
+  width: 100% !important;     /* Force 100% width */
+  min-width: 0 !important;    /* Override the JS inline style */
 }
