@@ -9,7 +9,7 @@ description: Homework assignments, deadlines, and submission policies for the Ge
 
 Please read the following policies carefully before submitting your work. These rules apply to all assignments.
 
-* **Platform:** All homeworks must be submitted via the official class **[Quera page](https://quera.org/course/24195)**.
+* **Platform:** All homeworks must be submitted via the official class **[Quera Page](https://quera.org/course/24195)**.
 * **Deadline:** Submissions are due by **23:59** on the specified deadline date.
 * **Format:** All files (theoretical PDFs, practical notebooks, etc.) must be compressed and submitted as a **single `.zip` file**. Please follow the naming conventions specified in the assignment files (e.g., `HW_T_[STD_ID].pdf`).
 * **Late Policy:** You have a total budget of **15 slack days** for the semester.

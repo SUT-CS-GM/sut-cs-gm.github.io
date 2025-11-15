@@ -5,7 +5,7 @@ This repository contains the source code for the official course website for **G
 > \[!IMPORTANT\]
 > **Students:** You are probably in the wrong place! This repository is just for the source code.
 >
-> ## [**Click here to go to the live course website!**](https://sut-cs-gm.github.io)
+> ## [**Click Here for the Live Course Website!**](https://sut-cs-gm.github.io)
 
 ## Details
 
@@ -18,11 +18,8 @@ You do not need to know HTML or CSS. All course content is written in standard *
 1. **Find the content:** All website pages are located in the `docs/` directory.
 
    * `docs/index.md`: The homepage.
-
-   * `docs/material/index.md`: The "Course Materials" page.
-
+   * `docs/material/index.md`: The "Course Material" page.
    * `docs/homeworks/index.md`: The "Homeworks" page.
-
    * ...and so on.
 
 2. **Edit the file:** Make your changes to the relevant `.md` file.
@@ -37,38 +34,37 @@ If you want to preview your changes on your local machine before pushing them, y
 
 1. **Clone the repository:**
 
-```
-
-git clone [https://github.com/sut-cs-gm/sut-cs-gm.github.io.git](https://www.google.com/search?q=https://github.com/sut-cs-gm/sut-cs-gm.github.io.git)
-cd sut-cs-gm.github.io
-
-```
+   ```
+   git clone [https://github.com/sut-cs-gm/sut-cs-gm.github.io.git](https://www.google.com/search?q=https://github.com/sut-cs-gm/sut-cs-gm.github.io.git)
+   cd sut-cs-gm.github.io
+   ```
 
 2. **Set up a Python virtual environment** (Recommended):
 
-```
-
-python -m venv venv
-source vVenv/bin/activate  \# On Windows, use `venv\Scripts\activate`
-
-```
+   ```
+   python -m venv venv
+   source vVenv/bin/activate  \# On Windows, use `venv\Scripts\activate`
+   ```
 
 3. **Install the required packages:**
-*Note: You may need to add other plugins from `mkdocs.yml` to this list.*
+   *Note: You may need to add other plugins from `mkdocs.yml` to this list.*
 
-```
-
-pip install mkdocs-material mkdocs-blog mkdocs-tags
-
-```
+   ```
+   pip install mkdocs-material mkdocs-blog mkdocs-tags
+   ```
 
 4. **Run the local server:**
 
-```
-
-mkdocs serve
-
-```
+   ```
+   mkdocs serve
+   ```
 
 5. **Open in browser:**
-Open [**http://127.0.0.1:8000**](https://www.google.com/search?q=http://127.0.0.1:8000) in your browser to see the live preview. The site will automatically refresh as you save changes to the Markdown files.
+   Open [**http://127.0.0.1:8000**](https://www.google.com/search?q=http://127.0.0.1:8000) in your browser to see the live preview. The site will automatically refresh as you save changes to the Markdown files.
+
+---
+
+## Credits
+
+* Designed by: [Mohammad Mohammadi](https://github.com/iMohammad97)
+* Edited by: [Maryam Rezaee](https://github.com/msmrexe)
