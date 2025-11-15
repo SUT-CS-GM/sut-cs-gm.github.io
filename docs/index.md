@@ -16,7 +16,6 @@ Welcome to the Fall 2025 offering of the Deep Generative Models course at SUT! W
 
 <details markdown="1">
 <summary><b>Course Description</b> (Click to Expand)</summary>
-<br/>
 This course provides a comprehensive, in-depth introduction to the principles, algorithms, and applications of deep generative modeling. We will explore a wide array of foundational and state-of-the-art architectures, beginning with core probabilistic concepts.
 
 Key topics are structured around three main pillars:
@@ -29,7 +28,6 @@ Key topics are structured around three main pillars:
 
 <details markdown="1">
 <summary><b>Learning Objectives</b> (Click to Expand)</summary>
-<br/>
 Upon successful completion of this course, students will be able to:
 
 * **Understand** the fundamental principles and theoretical underpinnings of major generative model families.
