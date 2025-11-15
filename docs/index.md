@@ -1,6 +1,6 @@
 ---
 title: Home
-description: Course overview for the Fall 2025 offering of Deep Generative Models at Sharif University of Technology.
+description: The Fall 2025 offering of Generative Models at Sharif University of Technology.
 hide:
   - feedback
 ---
