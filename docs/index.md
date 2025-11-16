@@ -40,7 +40,7 @@ Upon successful completion of this course, students will be able to:
 
 <div class="grid cards" markdown>
 -   ![Instructor Avatar](../assets/images/staff/Fatemeh-Seyedsalehi.jpeg){align=left width="150"}
-    <span class="description">
+    <span class="description" id="instructor-fatemeh-seyyedsalehi">
         <p>**Dr. Fatemeh Seyyedsalehi**</p>
         <p>Instructor</p>
         <p>[seyyedsalehi@sharif.edu](mailto:seyyedsalehi@sharif.edu)</p>
@@ -130,7 +130,7 @@ Upon successful completion of this course, students will be able to:
 
 ## Logistics & Policies 
 
-- **Lectures:** Held on Sunday and Tuesday from 10:30 to 12:30 in the Department of Mathematical Sciences, classroom 202.
+- **Lectures:** Held on Sunday and Tuesday from 10:30 to 12:30 in the Department of Mathematical Sciences, classroom 211.
 
 - **Late Policy:** You have a total budget of *15 slack days* for the semester, which can be used for any homework (practical or theoretical) without penalty.
     - There is a *maximum limit of 5 slack days* per assignment. Submissions after 5 days will not be accepted, as solutions may be released.
@@ -159,13 +159,13 @@ The grading for the Deep Generative Models course is structured as follows:
 
 <div class="grid cards" markdown>
 -   ![Instructor Avatar](assets/images/staff/Maryam-Rezaee.jpg){align=left width="150"}
-    <span class="description">
+    <span class="description" id="ta-maryam-rezaee">
         <p>**Maryam Rezaee**</p>
         <p>Head TA</p>
         <p>[ms.maryamrezaee@gmail.com](mailto:ms.maryamrezaee@gmail.com)</p>
         <p>
         [:fontawesome-brands-telegram:](https://t.me/msmrexe){:target="_blank"}
-        [:fontawesome-brands-github:](https://github.com/msmrexe){:target="_blank"}
+        [:fontawesome-brands-github:](https://github.com/msmrexe){:target="_blank"}
         [:material-web:](https://msmaryamrezaee.github.io){:target="_blank"}
         </p>
     </span>
@@ -176,7 +176,7 @@ The grading for the Deep Generative Models course is structured as follows:
 
 <div class="grid cards" markdown>
 -   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
-    <span class="description">
+    <span class="description" id="ta-firoozeh-abrishami">
         <p>**Firoozeh Abrishami**</p>
         <p>Teaching Assistant</p>
         <p>[f.abrishami110@gmail.com](mailto:f.abrishami110@gmail.com)</p>
@@ -187,7 +187,7 @@ The grading for the Deep Generative Models course is structured as follows:
 
 
 -   ![Instructor Avatar](assets/images/staff/Shaygan-Adim.jpg){align=left width="150"}
-    <span class="description">
+    <span class="description" id="ta-shaygan-adim">
         <p>**Shaygan Adim**</p>
         <p>Teaching Assistant</p>
         <p>[sh83adim@gmail.com](mailto:sh83adim@gmail.com)</p>
@@ -198,7 +198,7 @@ The grading for the Deep Generative Models course is structured as follows:
 
 
 -   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
-    <span class="description">
+    <span class="description" id="ta-mohammad-ali-banayeeanzade">
         <p>**Mohammad Ali Banayeeanzade**</p>
         <p>Teaching Assistant</p>
         <p>[a.banayeaab@gmail.com](mailto:a.banayeaab@gmail.com)</p>
@@ -208,7 +208,7 @@ The grading for the Deep Generative Models course is structured as follows:
     </span>
 
 -   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
-    <span class="description">
+    <span class="description" id="ta-mahshid-dehghani">
         <p>**Mahshid Dehghani**</p>
         <p>Teaching Assistant</p>
         <p>[da.mahshid@gmail.com](mailto:da.mahshid@gmail.com)</p>
@@ -218,7 +218,7 @@ The grading for the Deep Generative Models course is structured as follows:
     </span>
 
 -   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
-    <span class="description">
+    <span class="description" id="ta-ali-salimi">
         <p>**Ali Salimi**</p>
         <p>Teaching Assistant</p>
         <p>[iamlalisalimil@gmail.com](mailto:iamlalisalimil@gmail.com)</p>
@@ -228,7 +228,7 @@ The grading for the Deep Generative Models course is structured as follows:
     </span>
 
 -   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
-    <span class="description">
+    <span class="description" id="ta-mohammad-shirkani">
         <p>**Mohammad Shirkhani**</p>
         <p>Teaching Assistant</p>
         <p>[muhammad.shirkhani@gmail.com](mailto:muhammad.shirkhani@gmail.com)</p>
@@ -238,7 +238,7 @@ The grading for the Deep Generative Models course is structured as follows:
     </span>
 
 -   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
-    <span class="description">
+    <span class="description" id="ta-pooriya-safaei">
         <p>**Pooriya Safaei**</p>
         <p>Teaching Assistant</p>
         <p>[pooriya.safaei.80@gmail.com](mailto:pooriya.safaei.80@gmail.com)</p>
@@ -248,7 +248,7 @@ The grading for the Deep Generative Models course is structured as follows:
     </span>
 
 -   ![Instructor Avatar](assets/images/staff/Amir-Mohammad-Fakhimi.jpeg){align=left width="150"}
-    <span class="description">
+    <span class="description" id="ta-amir-mohammad-fakhimi">
         <p>**Amir Mohammad Fakhimi**</p>
         <p>Teaching Assistant</p>
         <p>[fakhimi.amirmohamad@gmail.com](mailto:fakhimi.amirmohamad@gmail.com)</p>
@@ -261,7 +261,7 @@ The grading for the Deep Generative Models course is structured as follows:
     </span>
 
 -   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
-    <span class="description">
+    <span class="description" id="ta-sara-karimi">
         <p>**Sara Karimi**</p>
         <p>Teaching Assistant</p>
         <p>[sarraah.karimi@gmail.com](mailto:sarraah.karimi@gmail.com)</p>
@@ -271,7 +271,7 @@ The grading for the Deep Generative Models course is structured as follows:
     </span>
 
 -   ![Instructor Avatar](assets/images/staff/Ramtin-Moslemi.jpg){align=left width="150"}
-    <span class="description">
+    <span class="description" id="ta-ramtin-moslemi">
         <p>**Ramtin Moslemi**</p>
         <p>Teaching Assistant</p>
         <p>[ramtin.moslemi@yahoo.com](mailto:ramtin.moslemi@yahoo.com)</p>
@@ -284,7 +284,7 @@ The grading for the Deep Generative Models course is structured as follows:
     </span>
 
 -   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
-    <span class="description">
+    <span class="description" id="ta-mohamad-hosein-mehdikhani">
         <p>**Mohamad Hosein Mehdikhani**</p>
         <p>Teaching Assistant</p>
         <p>[mhms2003bzm@gmail.com](mailto:mhms2003bzm@gmail.com)</p>

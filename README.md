@@ -68,3 +68,4 @@ If you want to preview your changes on your local machine before pushing them, y
 
 * Designed by: [Mohammad Mohammadi](https://github.com/iMohammad97)
 * Edited by: [Maryam Rezaee](https://github.com/msmrexe)
+* Original Theme: [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)

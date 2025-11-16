@@ -26,8 +26,8 @@ Please read the following policies carefully before submitting your work. These 
 
 * **Deadline:** 23 Aban 1404 (23:59)
 * **TAs Responsible:**
-    * Theoretical: [Firoozeh Abrishami](https://t.me/Frz_abrisham)
-    * Practical: [Shaygan Adim](https://t.me/shanster)
+    * Theoretical: [Firoozeh Abrishami](../#ta-firoozeh-abrishami)
+    * Practical: [Shaygan Adim](../#ta-shaygan-adim)
 
 [Download Assignment](/assets/homeworks/GM_HW1.zip){:target="_blank" .md-button .md-button--primary }
 <!--[Download Solution](/assets/homeworks/GM_HW1_Sol.zip){:target="_blank" .md-button .disabled }-->
@@ -38,8 +38,8 @@ Please read the following policies carefully before submitting your work. These 
 
 * **Deadline:** 10 Azar 1404 (23:59)
 * **TAs Responsible:**
-    * VAEs: [Amir Mohammad Fakhimi](https://t.me/AmirMohammadFakhimi)
-    * GANs, Flows: [Mahshid Dehghani](https://t.me/Mahshid_Dehghani)
+    * VAEs: [Amir Mohammad Fakhimi](../#ta-amir-mohammad-fakhimi)
+    * GANs, Flows: [Mahshid Dehghani](../#ta-mahshid-dehghani)
 
 [Download Assignment](/assets/homeworks/GM_HW2.zip){:target="_blank" .md-button .md-button--primary .disabled }
 <!--[Download Solution](/assets/homeworks/GM_HW2_Sol.zip){:target="_blank" .md-button .disabled }-->
