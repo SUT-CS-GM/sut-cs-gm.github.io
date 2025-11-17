@@ -175,13 +175,14 @@ The grading for the Deep Generative Models course is structured as follows:
 ## Teaching Assistants
 
 <div class="grid cards" markdown>
--   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
+-   ![Instructor Avatar](assets/images/staff/Firoozeh-Abrishami.jpg){align=left width="150"}
     <span class="description" id="ta-firoozeh-abrishami">
         <p>**Firoozeh Abrishami**</p>
         <p>Teaching Assistant</p>
         <p>[f.abrishami110@gmail.com](mailto:f.abrishami110@gmail.com)</p>
         <p>
         [:fontawesome-brands-telegram:](https://t.me/Frz_abrisham){:target="_blank"}
+        [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/firoozeh-abrishami){:target="_blank"}
         </p>
     </span>
 
@@ -256,7 +257,7 @@ The grading for the Deep Generative Models course is structured as follows:
         [:fontawesome-brands-telegram:](https://t.me/AmirMohammadFakhimi){:target="_blank"}
         [:fontawesome-brands-github:](https://github.com/AmirMohammadFakhimi){:target="_blank"}
         [:fontawesome-brands-linkedin-in:](https://linkedin.com/in/amir-mohammad-fakhimi){:target="_blank"}
-        [:material-web:](https://www.amfakhimi.com/){:target="_blank"}
+        [:material-web:](https://www.amfakhimi.com){:target="_blank"}
         </p>
     </span>
 
