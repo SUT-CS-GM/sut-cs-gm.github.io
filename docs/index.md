@@ -212,9 +212,10 @@ The grading for the Deep Generative Models course is structured as follows:
     <span class="description" id="ta-mahshid-dehghani">
         <p>**Mahshid Dehghani**</p>
         <p>Teaching Assistant</p>
-        <p>[da.mahshid@gmail.com](mailto:da.mahshid@gmail.com)</p>
+        <p>[mahshid.dehghani5@gmail.com](mailto:mahshid.dehghani5@gmail.com)</p>
         <p>
         [:fontawesome-brands-telegram:](https://t.me/Mahshid_Dehghani){:target="_blank"}
+        [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/mahshid-dehghani-131266264){:target="_blank"}
         </p>
     </span>
 
