@@ -206,6 +206,9 @@ The grading for the Deep Generative Models course is structured as follows:
         <p>[a.banayeaab@gmail.com](mailto:a.banayeaab@gmail.com)</p>
         <p>
         [:fontawesome-brands-telegram:](https://t.me/alibana82){:target="_blank"}
+        [:fontawesome-brands-google-scholar:](https://scholar.google.com/citations?user=Q1meSQIAAAAJ&hl=en){:target="_blank"}
+        [:fontawesome-brands-github:](https://github.com/alibanayeean){:target="_blank"}
+        [:material-web:](https://alibanayeean.github.io){:target="_blank"}
         </p>
     </span>
 
