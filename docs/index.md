@@ -199,7 +199,7 @@ The grading for the Deep Generative Models course is structured as follows:
     </span>
 
 
--   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
+-   ![Instructor Avatar](assets/images/staff/Anonymous.svg){align=left width="150"}
     <span class="description" id="ta-mohammad-ali-banayeeanzade">
         <p>**Mohammad Ali Banayeeanzade**</p>
         <p>Teaching Assistant</p>
@@ -212,7 +212,7 @@ The grading for the Deep Generative Models course is structured as follows:
         </p>
     </span>
 
--   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
+-   ![Instructor Avatar](assets/images/staff/Anonymous.svg){align=left width="150"}
     <span class="description" id="ta-mahshid-dehghani">
         <p>**Mahshid Dehghani**</p>
         <p>Teaching Assistant</p>
@@ -223,7 +223,7 @@ The grading for the Deep Generative Models course is structured as follows:
         </p>
     </span>
 
--   ![Instructor Avatar](assets/images/staff/Anonymous.jpg){align=left width="150"}
+-   ![Instructor Avatar](assets/images/staff/Anonymous.svg){align=left width="150"}
     <span class="description" id="ta-ali-salimi">
         <p>**Ali Salimi**</p>
         <p>Teaching Assistant</p>
