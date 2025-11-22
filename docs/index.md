@@ -234,13 +234,14 @@ The grading for the Deep Generative Models course is structured as follows:
         </p>
     </span>
 
--   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
+-   ![Instructor Avatar](assets/images/staff/Mohammad-Shirkhani.jpg){align=left width="150"}
     <span class="description" id="ta-mohammad-shirkani">
         <p>**Mohammad Shirkhani**</p>
         <p>Teaching Assistant</p>
         <p>[muhammad.shirkhani@gmail.com](mailto:muhammad.shirkhani@gmail.com)</p>
         <p>
         [:fontawesome-brands-telegram:](https://t.me/mo_bl6){:target="_blank"}
+        [:fontawesome-brands-github:](https://github.com/mohammad-shirkhani){:target="_blank"}
         </p>
     </span>
 
