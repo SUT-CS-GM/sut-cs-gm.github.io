@@ -194,6 +194,7 @@ The grading for the Deep Generative Models course is structured as follows:
         <p>[sh83adim@gmail.com](mailto:sh83adim@gmail.com)</p>
         <p>
         [:fontawesome-brands-telegram:](https://t.me/shanster){:target="_blank"}
+        [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/shaygan-adim-7aa394296){:target="_blank"}
         </p>
     </span>
 
