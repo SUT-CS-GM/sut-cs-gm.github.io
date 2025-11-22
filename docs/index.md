@@ -245,13 +245,14 @@ The grading for the Deep Generative Models course is structured as follows:
         </p>
     </span>
 
--   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
+-   ![Instructor Avatar](assets/images/staff/Pooriya-Safaei.jpg){align=left width="150"}
     <span class="description" id="ta-pooriya-safaei">
         <p>**Pooriya Safaei**</p>
         <p>Teaching Assistant</p>
         <p>[pooriya.safaei.80@gmail.com](mailto:pooriya.safaei.80@gmail.com)</p>
         <p>
         [:fontawesome-brands-telegram:](https://t.me/PooriyaSafaei){:target="_blank"}
+        [:fontawesome-brands-github:](https://github.com/pooriyasafaei){:target="_blank"}
         </p>
     </span>
 
