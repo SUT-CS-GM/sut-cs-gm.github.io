@@ -186,7 +186,6 @@ The grading for the Deep Generative Models course is structured as follows:
         </p>
     </span>
 
-
 -   ![Instructor Avatar](assets/images/staff/Shaygan-Adim.jpg){align=left width="150"}
     <span class="description" id="ta-shaygan-adim">
         <p>**Shaygan Adim**</p>
@@ -197,7 +196,6 @@ The grading for the Deep Generative Models course is structured as follows:
         [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/shaygan-adim-7aa394296){:target="_blank"}
         </p>
     </span>
-
 
 -   ![Instructor Avatar](assets/images/staff/Anonymous.svg){align=left width="150"}
     <span class="description" id="ta-mohammad-ali-banayeeanzade">
@@ -220,39 +218,6 @@ The grading for the Deep Generative Models course is structured as follows:
         <p>
         [:fontawesome-brands-telegram:](https://t.me/Mahshid_Dehghani){:target="_blank"}
         [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/mahshid-dehghani-131266264){:target="_blank"}
-        </p>
-    </span>
-
--   ![Instructor Avatar](assets/images/staff/Anonymous.svg){align=left width="150"}
-    <span class="description" id="ta-ali-salimi">
-        <p>**Ali Salimi**</p>
-        <p>Teaching Assistant</p>
-        <p>[iamlalisalimil@gmail.com](mailto:iamlalisalimil@gmail.com)</p>
-        <p>
-        [:fontawesome-brands-telegram:](https://t.me/curioserv){:target="_blank"}
-        [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/ali-salimi-ba6a56228){:target="_blank"}
-        </p>
-    </span>
-
--   ![Instructor Avatar](assets/images/staff/Mohammad-Shirkhani.jpg){align=left width="150"}
-    <span class="description" id="ta-mohammad-shirkani">
-        <p>**Mohammad Shirkhani**</p>
-        <p>Teaching Assistant</p>
-        <p>[muhammad.shirkhani@gmail.com](mailto:muhammad.shirkhani@gmail.com)</p>
-        <p>
-        [:fontawesome-brands-telegram:](https://t.me/mo_bl6){:target="_blank"}
-        [:fontawesome-brands-github:](https://github.com/mohammad-shirkhani){:target="_blank"}
-        </p>
-    </span>
-
--   ![Instructor Avatar](assets/images/staff/Pooriya-Safaei.jpg){align=left width="150"}
-    <span class="description" id="ta-pooriya-safaei">
-        <p>**Pooriya Safaei**</p>
-        <p>Teaching Assistant</p>
-        <p>[pooriya.safaei.80@gmail.com](mailto:pooriya.safaei.80@gmail.com)</p>
-        <p>
-        [:fontawesome-brands-telegram:](https://t.me/PooriyaSafaei){:target="_blank"}
-        [:fontawesome-brands-github:](https://github.com/pooriyasafaei){:target="_blank"}
         </p>
     </span>
 
@@ -280,6 +245,18 @@ The grading for the Deep Generative Models course is structured as follows:
         </p>
     </span>
 
+-   ![Instructor Avatar](assets/images/staff/Mohamad-Hosein-Mehdikhani.jpg){align=left width="150"}
+    <span class="description" id="ta-mohamad-hosein-mehdikhani">
+        <p>**Mohamad Hosein Mehdikhani**</p>
+        <p>Teaching Assistant</p>
+        <p>[mhms2003bzm@gmail.com](mailto:mhms2003bzm@gmail.com)</p>
+        <p>
+        [:fontawesome-brands-telegram:](https://t.me/mmmd_hosein){:target="_blank"}
+        [:fontawesome-brands-github:](https://github.com/mh-mehdikhani2003){:target="_blank"}
+        [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/hosein-mehdikhani-33289a304){:target="_blank"}
+        </p>
+    </span>
+
 -   ![Instructor Avatar](assets/images/staff/Ramtin-Moslemi.jpg){align=left width="150"}
     <span class="description" id="ta-ramtin-moslemi">
         <p>**Ramtin Moslemi**</p>
@@ -293,15 +270,36 @@ The grading for the Deep Generative Models course is structured as follows:
         </p>
     </span>
 
--   ![Instructor Avatar](assets/images/staff/Mohamad-Hosein-Mehdikhani.jpg){align=left width="150"}
-    <span class="description" id="ta-mohamad-hosein-mehdikhani">
-        <p>**Mohamad Hosein Mehdikhani**</p>
+-   ![Instructor Avatar](assets/images/staff/Pooriya-Safaei.jpg){align=left width="150"}
+    <span class="description" id="ta-pooriya-safaei">
+        <p>**Pooriya Safaei**</p>
         <p>Teaching Assistant</p>
-        <p>[mhms2003bzm@gmail.com](mailto:mhms2003bzm@gmail.com)</p>
+        <p>[pooriya.safaei.80@gmail.com](mailto:pooriya.safaei.80@gmail.com)</p>
         <p>
-        [:fontawesome-brands-telegram:](https://t.me/mmmd_hosein){:target="_blank"}
-        [:fontawesome-brands-github:](https://github.com/mh-mehdikhani2003){:target="_blank"}
-        [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/hosein-mehdikhani-33289a304){:target="_blank"}
+        [:fontawesome-brands-telegram:](https://t.me/PooriyaSafaei){:target="_blank"}
+        [:fontawesome-brands-github:](https://github.com/pooriyasafaei){:target="_blank"}
+        </p>
+    </span>
+
+-   ![Instructor Avatar](assets/images/staff/Anonymous.svg){align=left width="150"}
+    <span class="description" id="ta-ali-salimi">
+        <p>**Ali Salimi**</p>
+        <p>Teaching Assistant</p>
+        <p>[iamlalisalimil@gmail.com](mailto:iamlalisalimil@gmail.com)</p>
+        <p>
+        [:fontawesome-brands-telegram:](https://t.me/curioserv){:target="_blank"}
+        [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/ali-salimi-ba6a56228){:target="_blank"}
+        </p>
+    </span>
+
+-   ![Instructor Avatar](assets/images/staff/Mohammad-Shirkhani.jpg){align=left width="150"}
+    <span class="description" id="ta-mohammad-shirkani">
+        <p>**Mohammad Shirkhani**</p>
+        <p>Teaching Assistant</p>
+        <p>[muhammad.shirkhani@gmail.com](mailto:muhammad.shirkhani@gmail.com)</p>
+        <p>
+        [:fontawesome-brands-telegram:](https://t.me/mo_bl6){:target="_blank"}
+        [:fontawesome-brands-github:](https://github.com/mohammad-shirkhani){:target="_blank"}
         </p>
     </span>
 </div>
