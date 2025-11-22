@@ -30,7 +30,7 @@ Please read the following policies carefully before submitting your work. These 
     * Practical: [Shaygan Adim](../#ta-shaygan-adim)
 
 [Download Assignment](/assets/homeworks/GM_HW1.zip){:target="_blank" .md-button .md-button--primary }
-<!--[Download Solution](/assets/homeworks/GM_HW1_Sol.zip){:target="_blank" .md-button .disabled }-->
+[Download Solution](/assets/homeworks/GM_HW1_Sol.zip){:target="_blank" .md-button .disabled }
 
 ---
 
