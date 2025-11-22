@@ -4,6 +4,7 @@
 <style>
   path, circle {
     fill: black;
+    opacity: 0.8; 
   }
   @media (prefers-color-scheme: dark) {
     path, circle {
