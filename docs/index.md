@@ -292,13 +292,15 @@ The grading for the Deep Generative Models course is structured as follows:
         </p>
     </span>
 
--   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
+-   ![Instructor Avatar](assets/images/staff/Mohamad-Hosein-Mehdikhani.jpg){align=left width="150"}
     <span class="description" id="ta-mohamad-hosein-mehdikhani">
         <p>**Mohamad Hosein Mehdikhani**</p>
         <p>Teaching Assistant</p>
         <p>[mhms2003bzm@gmail.com](mailto:mhms2003bzm@gmail.com)</p>
         <p>
         [:fontawesome-brands-telegram:](https://t.me/mmmd_hosein){:target="_blank"}
+        [:fontawesome-brands-github:](https://github.com/mh-mehdikhani2003){:target="_blank"}
+        [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/hosein-mehdikhani-33289a304){:target="_blank"}
         </p>
     </span>
 </div>
