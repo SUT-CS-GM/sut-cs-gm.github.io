@@ -268,13 +268,14 @@ The grading for the Deep Generative Models course is structured as follows:
         </p>
     </span>
 
--   ![Instructor Avatar](assets/images/staff/Sample.png){align=left width="150"}
+-   ![Instructor Avatar](assets/images/staff/Sara-Karimi.jpg){align=left width="150"}
     <span class="description" id="ta-sara-karimi">
         <p>**Sara Karimi**</p>
         <p>Teaching Assistant</p>
         <p>[sarraah.karimi@gmail.com](mailto:sarraah.karimi@gmail.com)</p>
         <p>
         [:fontawesome-brands-telegram:](https://t.me/s4rrkar){:target="_blank"}
+        [:fontawesome-brands-github:](https://github.com/sarrkar){:target="_blank"}
         </p>
     </span>
 
