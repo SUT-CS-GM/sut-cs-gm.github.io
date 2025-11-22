@@ -226,6 +226,7 @@ The grading for the Deep Generative Models course is structured as follows:
         <p>[iamlalisalimil@gmail.com](mailto:iamlalisalimil@gmail.com)</p>
         <p>
         [:fontawesome-brands-telegram:](https://t.me/curioserv){:target="_blank"}
+        [:fontawesome-brands-linkedin-in:](https://www.linkedin.com/in/ali-salimi-ba6a56228){:target="_blank"}
         </p>
     </span>
 
