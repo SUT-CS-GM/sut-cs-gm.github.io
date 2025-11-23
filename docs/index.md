@@ -140,7 +140,7 @@ Upon successful completion of this course, students will be able to:
 
 - **Practical Assignments:** Practical (coding) assignments will include an oral defense. You will not receive a grade for the practical portion if you cannot demonstrate sufficient mastery of your code during the defense.
 
-- **Support:** You can ask questions on [Telegram Group](https://t.me/SUT_GM_4041) or email the course instructor or head TA for office hours.
+- **Support:** You can ask questions on [Telegram Group](https://t.me/SUT_GM_4041){:target="_blank"} or email the course instructor or head TA for office hours.
 
 
 ## Grading

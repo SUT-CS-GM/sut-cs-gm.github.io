@@ -11,19 +11,19 @@ This page contains a list of recommended textbooks and similar courses from othe
 
 ## Recommended Books
 
-1.  **[Deep Learning: Foundations and Concepts](https://www.bishopbook.com/)**
+1.  **[Deep Learning: Foundations and Concepts](https://www.bishopbook.com){:target="_blank"}**
     * Bishop, Christopher M. and Hugh Bishop
     * *Springer*
 
-2.  **[Probabilistic Machine Learning: Advanced Topics](https://mitpress.ublish.com/book/probabilistic-machine-learning-advanced-topics)**
+2.  **[Probabilistic Machine Learning: Advanced Topics](https://mitpress.ublish.com/book/probabilistic-machine-learning-advanced-topics){:target="_blank"}**
     * Murphy, Kevin P.
     * *The MIT Press*
 
-3.  **[Deep Generative Modeling](https://www.springerprofessional.de/en/deep-generative-modeling/27681508)**
+3.  **[Deep Generative Modeling](https://www.springerprofessional.de/en/deep-generative-modeling/27681508){:target="_blank"}**
     * Tomczak, Jakub M.
     * *Springer*
 
-4.  **[Probabilistic Graphical Models: Principles and Techniques](https://mitpress.ublish.com/book/probabilistic-graphical-models)**
+4.  **[Probabilistic Graphical Models: Principles and Techniques](https://mitpress.ublish.com/book/probabilistic-graphical-models){:target="_blank"}**
     * Koller, Daphne and Nir Friedman
     * *The MIT Press*
 
@@ -31,7 +31,7 @@ This page contains a list of recommended textbooks and similar courses from othe
 
 ## Related University Courses
 
-* **[Stanford CS-236: Deep Generative Models](https://deepgenerativemodels.github.io/)**
-* **[CMU 18-789: Deep Generative Modeling](https://cmu-dgm.github.io/)**
-* **[Washington CSE-599: Generative Models](https://courses.cs.washington.edu/courses/cse599i/20au/)**
-* **[Berkeley CS 294-158: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home)**
+* **[Stanford CS-236: Deep Generative Models](https://deepgenerativemodels.github.io){:target="_blank"}**
+* **[CMU 18-789: Deep Generative Modeling](https://cmu-dgm.github.io){:target="_blank"}**
+* **[Washington CSE-599: Generative Models](https://courses.cs.washington.edu/courses/cse599i/20au){:target="_blank"}**
+* **[Berkeley CS 294-158: Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home){:target="_blank"}**
