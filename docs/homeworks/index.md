@@ -1,6 +1,6 @@
 ---
 title: Homeworks
-description: Homework assignments, deadlines, and submission policies for the Generative Models course.
+description: Assignments, solutions, and deadlines for the Generative Models course.
 ---
 
 # Homeworks

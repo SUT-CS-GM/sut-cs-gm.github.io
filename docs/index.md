@@ -88,17 +88,17 @@ Upon successful completion of this course, students will be able to:
 
 | #   | Topic of Session                                      | Material                                                                  | Date                                                                |
 |:---:|:------------------------------------------------------|:--------------------------------------------------------------------------|:-------------------------------------------------------------------:|
-| 1   | Introduction                                          | <a href="https://sut-cs-gm.github.io/material/#topic-1-introduction">Topic 1</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ مهر<br></div>  |
-| 2   | Intro. to Probabilistic Graphical Models                | <a href="https://sut-cs-gm.github.io/material/#topic-2-pgm-representation">Topic 2</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۲ مهر<br></div>  |
-| 3   | Intro. to Probabilistic Graphical Models                | <a href="https://sut-cs-gm.github.io/material/#topic-3-pgm-inference">Topic 3</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۷ مهر<br></div>  |
-| 4   | Intro. to Probabilistic Graphical Models                | <a href="https://sut-cs-gm.github.io/material/#topic-4-pgm-learning">Topic 4</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۹ مهر<br></div>  |
-| 5   | Autoregressive Models                                 | <a href="https://sut-cs-gm.github.io/material/#topic-5-autoregressive-models">Topic 5</a> | <div style="direction: rtl;font-family: Vazirmatn;">۴ آبان<br></div>  |
-| 6   | Autoregressive Models                                 | <a href="https://sut-cs-gm.github.io/material/#topic-5-autoregressive-models">Topic 5</a> | <div style="direction: rtl;font-family: Vazirmatn;">۶ آبان<br></div>  |
-| 7   | VAEs                                                  | <a href="https://sut-cs-gm.github.io/material/#topic-6-variational-autoencoder">Topic 6</a> | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آبان<br></div> |
-| 8   | VAEs                                                  | <a href="https://sut-cs-gm.github.io/material/#topic-6-variational-autoencoder">Topic 6</a> | <div style="direction: rtl;font-family: Vazirmatn;">۱۳ آبان<br></div> |
-| 9   | GANs                                                  | <a href="https://sut-cs-gm.github.io/material/#topic-7-gan">Topic 7</a> | <div style="direction: rtl;font-family: Vazirmatn;">۱۸ آبان<br></div> |
-| 10  | GANs                                                  | <a href="https://sut-cs-gm.github.io/material/#topic-7-gan">Topic 7</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ آبان<br></div> |
-| 11  | Normalizing Flows and Invertible Models               | <a href="https://sut-cs-gm.github.io/material/#topic-8-normalizing-flow">Topic 8</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> |
+| 1   | Introduction                                          | <a href="/material/#topic-1-introduction">Topic 1</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ مهر<br></div>  |
+| 2   | Intro. to Probabilistic Graphical Models                | <a href="/material/#topic-2-pgm-representation">Topic 2</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۲ مهر<br></div>  |
+| 3   | Intro. to Probabilistic Graphical Models                | <a href="/material/#topic-3-pgm-inference">Topic 3</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۷ مهر<br></div>  |
+| 4   | Intro. to Probabilistic Graphical Models                | <a href="/material/#topic-4-pgm-learning">Topic 4</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۹ مهر<br></div>  |
+| 5   | Autoregressive Models                                 | <a href="/material/#topic-5-autoregressive-models">Topic 5</a> | <div style="direction: rtl;font-family: Vazirmatn;">۴ آبان<br></div>  |
+| 6   | Autoregressive Models                                 | <a href="/material/#topic-5-autoregressive-models">Topic 5</a> | <div style="direction: rtl;font-family: Vazirmatn;">۶ آبان<br></div>  |
+| 7   | VAEs                                                  | <a href="/material/#topic-6-variational-autoencoder">Topic 6</a> | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آبان<br></div> |
+| 8   | VAEs                                                  | <a href="/material/#topic-6-variational-autoencoder">Topic 6</a> | <div style="direction: rtl;font-family: Vazirmatn;">۱۳ آبان<br></div> |
+| 9   | GANs                                                  | <a href="/material/#topic-7-gan">Topic 7</a> | <div style="direction: rtl;font-family: Vazirmatn;">۱۸ آبان<br></div> |
+| 10  | GANs                                                  | <a href="/material/#topic-7-gan">Topic 7</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ آبان<br></div> |
+| 11  | Normalizing Flows and Invertible Models               | <a href="/material/#topic-8-normalizing-flow">Topic 8</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> |
 | 12  | Energy Based Models                                   |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۲۷ آبان<br></div> |
 | 13  | Score Based Models and SDEs                           |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۲ آذر<br></div>   |
 | 14  | Score Based Models and SDEs                           |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۴ آذر<br></div>   |
@@ -121,8 +121,8 @@ Upon successful completion of this course, students will be able to:
 
 | Homework                                                                        | Release                                                              | Deadline                              |
 | :------------------------------------------------------------------------------ | :------------------------------------------------------------------: | :-----------------------------------: |
-| <a href="https://sut-cs-gm.github.io/homeworks/#homework-1-pgms-ars">Homework 1: PGMs, ARs</a> | <div style="direction: rtl;font-family: Vazirmatn;">۷ آبان<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آبان<br></div> |
-| <a href="https://sut-cs-gm.github.io/homeworks/#homework-2-vaes-gans-flows">Homework 2: VAEs, GANs, Flows</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۱۰ آذر<br></div>  |
+| <a href="/homeworks/#homework-1-pgms-ars">Homework 1: PGMs, ARs</a> | <div style="direction: rtl;font-family: Vazirmatn;">۷ آبان<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آبان<br></div> |
+| <a href="/homeworks/#homework-2-vaes-gans-flows">Homework 2: VAEs, GANs, Flows</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۱۰ آذر<br></div>  |
 | Homework 3: EBMs, SDEs, Flow Matching                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۲۹ آذر<br></div> |
 | Homework 4: Diffusion, ODEs                                                     | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ دی<br></div>  |
 | Homework 5: LLMs, LMMs                                                          | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ دی<br></div>  |

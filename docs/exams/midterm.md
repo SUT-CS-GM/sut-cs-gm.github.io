@@ -6,7 +6,7 @@ comments: False
 
 # Midterm Exam
 
-The midterm exam will cover all material presented from the beginning of the course up to and including Normalizing Flows (Topics 1–8).
+The Fall 2025 Midterm Exam serves as a comprehensive assessment of the foundational concepts covered in the first half of the semester. The exam is designed to evaluate your theoretical understanding, mathematical derivations, and analysis of model architectures presented from **Topic 1 (Introduction)** through **Topic 8 (Normalizing Flows)**.
 
 ---
 
@@ -14,7 +14,7 @@ The midterm exam will cover all material presented from the beginning of the cou
 
 The exam will take place during the regular class hours.
 
-* **Date:** Sunday, <span style="font-family: Vazirmatn;">۹ آذر ۱۴۰۴</span> (November 30, 2025)
+* **Date:** Sunday, <span dir="rtl" style="font-family: Vazirmatn;">۹ آذر ۱۴۰۴</span> (November 30, 2025)
 * **Time:** 10:30 – 12:30
 * **Location:** Department of Mathematical Sciences, Classroom 211 *(same as all classes)*
 
