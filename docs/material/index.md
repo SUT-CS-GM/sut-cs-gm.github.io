@@ -17,7 +17,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/1-Introduction.pdf"
-        width="996"
+        width="980"
         height="560">
 </object>
 </details>
@@ -35,7 +35,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/2-PGM-Representation.pdf"
-        width="996"
+        width="980"
         height="560">
 </object>
 </details>
@@ -54,7 +54,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/3-PGM-Inference.pdf"
-        width="996"
+        width="980"
         height="560">
 </object>
 </details>
@@ -74,7 +74,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/4-PGM-Learning.pdf"
-        width="996"
+        width="980"
         height="560">
 </object>
 </details>
@@ -94,7 +94,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/5-Autoregressive-Models.pdf"
-        width="996"
+        width="980"
         height="560">
 </object>
 </details>
@@ -117,7 +117,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/6-Variational-Autoencoder.pdf"
-        width="996"
+        width="980"
         height="560">
 </object>
 </details>
@@ -137,7 +137,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/7-GAN.pdf"
-        width="996"
+        width="980"
         height="560">
 </object>
 </details>
@@ -148,3 +148,24 @@ This page hosts all lecture slides and supplementary reading materials for each 
 * [Original GAN Paper (Goodfellow et al.)](https://arxiv.org/pdf/1406.2661){:target="_blank"}
 * [WGAN (Wasserstein GAN) Paper](https://arxiv.org/pdf/1701.07875){:target="_blank"}
 * [WGAN-GP (Improved WGAN) Paper](https://arxiv.org/pdf/1704.00028){:target="_blank"}
+
+---
+
+## **Topic 8: Normalizing Flow**
+
+[Download Slides](/assets/slides/8-Normalizing-Flow.pdf){:target="_blank" .md-button .md-button--primary }
+
+<details>
+<summary>Click to view slides in browser</summary>
+<object class="pdf" 
+        data="/assets/slides/8-Normalizing-Flow.pdf"
+        width="980"
+        height="560">
+</object>
+</details>
+
+### Supplementary Material
+* [Probabilistic Machine Learning (Textbook [2]), Chapter 23](https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning){:target="_blank"}
+* [CS236 (Deep Generative Models): Normalizing Flow Notes](https://deepgenerativemodels.github.io/notes/flow){:target="_blank"}
+* [CSE599i: Normalizing Flow Notes](https://courses.cs.washington.edu/courses/cse599i/20au/resources/L15_flow.pdf){:target="_blank"}
+* [Neural Ordinary Differential Equations (Neural ODE) Paper](https://arxiv.org/pdf/1806.07366){:target="_blank"}
