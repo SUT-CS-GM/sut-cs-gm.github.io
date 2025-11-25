@@ -94,7 +94,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/5-Autoregressive-Models.pdf"
-        width="960"
+        width="900"
         height="560">
 </object>
 </details>
