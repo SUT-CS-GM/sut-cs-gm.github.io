@@ -17,7 +17,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/1-Introduction.pdf"
-        width="905"
+        width="910"
         height="560">
 </object>
 </details>
@@ -35,7 +35,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/2-PGM-Representation.pdf"
-        width="905"
+        width="910"
         height="560">
 </object>
 </details>
@@ -54,7 +54,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/3-PGM-Inference.pdf"
-        width="905"
+        width="910"
         height="560">
 </object>
 </details>
@@ -74,7 +74,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/4-PGM-Learning.pdf"
-        width="905"
+        width="910"
         height="560">
 </object>
 </details>
@@ -94,7 +94,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/5-Autoregressive-Models.pdf"
-        width="905"
+        width="910"
         height="560">
 </object>
 </details>
@@ -117,7 +117,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/6-Variational-Autoencoder.pdf"
-        width="905"
+        width="910"
         height="560">
 </object>
 </details>
@@ -137,7 +137,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/7-GAN.pdf"
-        width="905"
+        width="910"
         height="560">
 </object>
 </details>
@@ -159,7 +159,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
         data="/assets/slides/8-Normalizing-Flow.pdf"
-        width="905"
+        width="910"
         height="560">
 </object>
 </details>
