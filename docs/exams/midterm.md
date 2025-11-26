@@ -18,7 +18,7 @@ The exam will take place during the regular class hours.
 * **Time:** 10:30 – 12:30
 * **Location:** Department of Mathematical Sciences, Classroom 211 *(same as all classes)*
 
-<br/>
+<div style="height: 15px;"></div>
 
 ---
 
@@ -35,7 +35,7 @@ The exam covers **Topics 1 through 8**. Please review the slides and notes for t
 7.  [**Topic 7: Generative Adversarial Networks (GANs)**](/material/#topic-7-gan)
 8.  [**Topic 8: Normalizing Flows**](/material/#topic-8-normalizing-flow)
 
-<br/>
+<div style="height: 15px;"></div>
 
 !!! tip "Preparation Advice"
       The lecture slides cover the complete scope of the exam, including all necessary mathematical derivations. However, given the concise nature of the slides, we **highly recommend** consulting the **Supplementary Material** linked on the [Course Material](/material/) page. These resources provide the full context and narrative needed to gain a complete and deep understanding of the concepts presented in class.
