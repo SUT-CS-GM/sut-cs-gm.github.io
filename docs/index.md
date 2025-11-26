@@ -13,6 +13,8 @@ Welcome to the Fall 2025 offering of the Deep Generative Models course at SUT! W
 * **Department:** Department of Mathematical Sciences
 * **Group:** Computer Science (CS)
 
+<div style="height: 10px;"></div>
+
 <details markdown="1">
 <summary><b>Course Description</b> (Click to Expand)</summary>
 This course provides a comprehensive, in-depth introduction to the principles, algorithms, and applications of deep generative modeling. We will explore a wide array of foundational and state-of-the-art architectures, beginning with core probabilistic concepts.
@@ -35,6 +37,7 @@ Upon successful completion of this course, students will be able to:
 * **Develop** the theoretical knowledge necessary to read, understand, and critically assess current research papers in the field.
 </details>
 
+---
 
 ## Instructor
 
@@ -82,6 +85,8 @@ Upon successful completion of this course, students will be able to:
 [//]: # (  )
 [//]: # (</div>)
 
+---
+
 ## Tentative Schedule
 
 ### Lectures
@@ -127,6 +132,7 @@ Upon successful completion of this course, students will be able to:
 | Homework 4: Diffusion, ODEs                                                     | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ دی<br></div>  |
 | Homework 5: LLMs, LMMs                                                          | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ دی<br></div>  |
 
+---
 
 ## Logistics & Policies 
 
@@ -142,6 +148,7 @@ Upon successful completion of this course, students will be able to:
 
 - **Support:** You can ask questions on [Telegram Group](https://t.me/SUT_GM_4041){:target="_blank"} or email the course instructor or head TA for office hours.
 
+---
 
 ## Grading
 
@@ -154,6 +161,7 @@ The grading for the Deep Generative Models course is structured as follows:
 | Final                                    | 6                        |
 | **Total**                                | **20 + [1 Extra Point]** |
 
+---
 
 ## Head Assistant
 
@@ -170,7 +178,6 @@ The grading for the Deep Generative Models course is structured as follows:
         </p>
     </span>
 </div>
-
 
 ## Teaching Assistants
 

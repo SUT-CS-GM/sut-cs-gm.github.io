@@ -5,6 +5,8 @@ description: Assignments, solutions, and deadlines for the Generative Models cou
 
 # Homeworks
 
+---
+
 ## General Policies & Submission
 
 Please read the following policies carefully before submitting your work. These rules apply to all assignments.
