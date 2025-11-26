@@ -13,7 +13,7 @@ Welcome to the Fall 2025 offering of the Deep Generative Models course at SUT! W
 * **Department:** Department of Mathematical Sciences
 * **Group:** Computer Science (CS)
 
-<div style="height: 5px;"></div>
+<div style="height: 1px;"></div>
 
 <details markdown="1">
 <summary><b>Course Description</b> (Click to Expand)</summary>
@@ -37,7 +37,7 @@ Upon successful completion of this course, students will be able to:
 * **Develop** the theoretical knowledge necessary to read, understand, and critically assess current research papers in the field.
 </details>
 
-<div style="height: 2px;"></div>
+<div style="height: 1px;"></div>
 
 ---
 
