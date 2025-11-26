@@ -5,6 +5,8 @@ description: Assignments, solutions, and deadlines for the Generative Models cou
 
 # Homeworks
 
+This page serves as the central repository for all course assignments. Below you will find the release dates, deadlines, and downloadable materials for both theoretical and practical components. Official solutions will also be published here after the final deadline for each assignment has passed. Please review the policies carefully before starting your first assignment.
+
 ---
 
 ## General Policies & Submission

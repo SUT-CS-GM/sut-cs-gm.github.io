@@ -37,6 +37,8 @@ Upon successful completion of this course, students will be able to:
 * **Develop** the theoretical knowledge necessary to read, understand, and critically assess current research papers in the field.
 </details>
 
+<div style="height: 10px;"></div>
+
 ---
 
 ## Instructor
@@ -84,6 +86,8 @@ Upon successful completion of this course, students will be able to:
 [//]: # (  )
 [//]: # (  )
 [//]: # (</div>)
+
+<div style="height: 10px;"></div>
 
 ---
 
