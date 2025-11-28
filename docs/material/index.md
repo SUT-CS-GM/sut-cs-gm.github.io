@@ -169,3 +169,32 @@ This page hosts all lecture slides and supplementary reading materials for each 
 * [CS236 (Deep Generative Models): Normalizing Flow Notes](https://deepgenerativemodels.github.io/notes/flow){:target="_blank"}
 * [CSE599i: Normalizing Flow Notes](https://courses.cs.washington.edu/courses/cse599i/20au/resources/L15_flow.pdf){:target="_blank"}
 * [Neural Ordinary Differential Equations (Neural ODE) Paper](https://arxiv.org/pdf/1806.07366){:target="_blank"}
+
+---
+
+## **Topic 9: Energy-Based Models**
+
+[Download Slides (Part 1)](/assets/slides/9-EBM1-Stanford.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides (Part 2)](/assets/slides/9-EBM2-Stanford.pdf){:target="_blank" .md-button .md-button--primary }
+
+<details>
+<summary>Click to view slides (Part 1) in browser</summary>
+<object class="pdf" 
+        data="/assets/slides/9-EBM1-Stanford.pdf"
+        width="910"
+        height="560">
+</object>
+</details>
+
+<details>
+<summary>Click to view slides (Part 2) in browser</summary>
+<object class="pdf" 
+        data="/assets/slides/9-EBM2-Stanford.pdf"
+        width="910"
+        height="560">
+</object>
+</details>
+
+### Supplementary Material
+* [Probabilistic Machine Learning (Textbook [2]), Chapter 24](https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning){:target="_blank"}
+* [CSE599i: Energy-Based Models Notes](https://courses.cs.washington.edu/courses/cse599i/20au/resources/L16_ebm.pdf){:target="_blank"}

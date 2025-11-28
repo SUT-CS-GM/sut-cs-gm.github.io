@@ -26,7 +26,6 @@ Key topics are structured around three main pillars:
 * **Large Language Models (LLMs):** A significant module dedicated to the principles of LLMs and LMMs, their emergent abilities, and their capacity for reasoning.
 </details>
 
-
 <details markdown="1">
 <summary><b>Learning Objectives</b> (Click to Expand)</summary>
 Upon successful completion of this course, students will be able to:
@@ -108,8 +107,8 @@ Upon successful completion of this course, students will be able to:
 | 9   | GANs                                                  | <a href="/material/#topic-7-gan">Topic 7</a> | <div style="direction: rtl;font-family: Vazirmatn;">۱۸ آبان<br></div> |
 | 10  | GANs                                                  | <a href="/material/#topic-7-gan">Topic 7</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ آبان<br></div> |
 | 11  | Normalizing Flows and Invertible Models               | <a href="/material/#topic-8-normalizing-flow">Topic 8</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> |
-| 12  | Energy Based Models                                   |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۲۷ آبان<br></div> |
-| 13  | Score Based Models and SDEs                           |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۲ آذر<br></div>   |
+| 12  | Energy Based Models                                   | <a href="/material/#topic-9-energy-based-models">Topic 9</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۷ آبان<br></div> |
+| 13  | Energy Based Models                                   | <a href="/material/#topic-9-energy-based-models">Topic 9</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲ آذر<br></div>   |
 | 14  | Score Based Models and SDEs                           |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۴ آذر<br></div>   |
 | 15  | <div style="font-weight: bold; color: red;" > Midterm Exam</div> |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۹ آذر<br></div>   |
 | 16  | Flow Matching                                         |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آذر<br></div> |
