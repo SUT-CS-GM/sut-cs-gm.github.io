@@ -198,3 +198,27 @@ This page hosts all lecture slides and supplementary reading materials for each 
 ### Supplementary Material
 * [Probabilistic Machine Learning (Textbook [2]), Chapter 24](https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning){:target="_blank"}
 * [CSE599i: Energy-Based Models Notes](https://courses.cs.washington.edu/courses/cse599i/20au/resources/L16_ebm.pdf){:target="_blank"}
+
+---
+
+## **Topic 10: Score-Based Models**
+
+[Download Slides (Animated PPTX)](/assets/slides/10-Score-Based-Models.pptx){:target="_blank" .md-button .md-button--primary }
+[Download Slides (Static PDF)](/assets/slides/10-Score-Based-Models.pdf){:target="_blank" .md-button }
+
+!!! note "Format Recommendation"
+    The **PPTX** file is highly recommended as the slides contain animations and GIFs. The PDF contains some overlapping elements and meaningless figures due to these animations.
+
+<details>
+<summary>Click to view slides (PDF) in browser</summary>
+<object class="pdf" 
+        data="/assets/slides/10-Score-Based-Models.pdf"
+        width="910"
+        height="560">
+</object>
+</details>
+
+### Supplementary Material
+* [Probabilistic Machine Learning (Textbook [2]), Chapter 25](https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning){:target="_blank"}
+* [Yang Song's Blog: Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score){:target="_blank"}
+* [CSE599i: Score-Based Models & Denoising Notes](https://courses.cs.washington.edu/courses/cse599i/20au/resources/L17_denoising.pdf){:target="_blank"}

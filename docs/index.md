@@ -94,36 +94,36 @@ Upon successful completion of this course, students will be able to:
 
 ### Lectures
 
-| #   | Topic of Session                                      | Material                                                                  | Date                                                                |
-|:---:|:------------------------------------------------------|:--------------------------------------------------------------------------|:-------------------------------------------------------------------:|
-| 1   | Introduction                                          | <a href="/material/#topic-1-introduction">Topic 1</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ مهر<br></div>  |
-| 2   | Intro. to Probabilistic Graphical Models                | <a href="/material/#topic-2-pgm-representation">Topic 2</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۲ مهر<br></div>  |
-| 3   | Intro. to Probabilistic Graphical Models                | <a href="/material/#topic-3-pgm-inference">Topic 3</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۷ مهر<br></div>  |
-| 4   | Intro. to Probabilistic Graphical Models                | <a href="/material/#topic-4-pgm-learning">Topic 4</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۹ مهر<br></div>  |
-| 5   | Autoregressive Models                                 | <a href="/material/#topic-5-autoregressive-models">Topic 5</a> | <div style="direction: rtl;font-family: Vazirmatn;">۴ آبان<br></div>  |
-| 6   | Autoregressive Models                                 | <a href="/material/#topic-5-autoregressive-models">Topic 5</a> | <div style="direction: rtl;font-family: Vazirmatn;">۶ آبان<br></div>  |
-| 7   | VAEs                                                  | <a href="/material/#topic-6-variational-autoencoder">Topic 6</a> | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آبان<br></div> |
-| 8   | VAEs                                                  | <a href="/material/#topic-6-variational-autoencoder">Topic 6</a> | <div style="direction: rtl;font-family: Vazirmatn;">۱۳ آبان<br></div> |
-| 9   | GANs                                                  | <a href="/material/#topic-7-gan">Topic 7</a> | <div style="direction: rtl;font-family: Vazirmatn;">۱۸ آبان<br></div> |
-| 10  | GANs                                                  | <a href="/material/#topic-7-gan">Topic 7</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ آبان<br></div> |
-| 11  | Normalizing Flows and Invertible Models               | <a href="/material/#topic-8-normalizing-flow">Topic 8</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> |
-| 12  | Energy Based Models                                   | <a href="/material/#topic-9-energy-based-models">Topic 9</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۷ آبان<br></div> |
-| 13  | Energy Based Models                                   | <a href="/material/#topic-9-energy-based-models">Topic 9</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲ آذر<br></div>   |
-| 14  | Score Based Models and SDEs                           |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۴ آذر<br></div>   |
-| 15  | <div style="font-weight: bold; color: red;" > Midterm Exam</div> |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۹ آذر<br></div>   |
-| 16  | Flow Matching                                         |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آذر<br></div> |
-| 17  | Intro. to Diffusion Models                            |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ آذر<br></div> |
-| 18  | Diffusion Models and ODE/Flows                        |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۸ آذر<br></div> |
-| 19  | Diffusion Models and ODE/Flows                        |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آذر<br></div> |
-| 20  | Text-to-Image Generation with Diffusion Models        |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آذر<br></div> |
-| 21  | Diffusion for Discrete Data                           |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div> |
-| 22  | Advanced Topics in Generative Models                  |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۲ دی<br></div>   |
-| 23  | Intro. to LLMs and LMMs                               |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۷ دی<br></div>   |
-| 24  | LLM Emergent Abilities                                |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۹ دی<br></div>   |
-| 25  | LLM Emergent Abilities                                |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۴ دی<br></div>  |
-| 26  | Reasoning in LLMs                                     |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>  |
-| 27  | Reasoning in LLMs                                     |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۲۱ دی<br></div>  |
-| 28  | Reasoning in LLMs                                     |                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ دی<br></div>  |
+| #   | Topic of Session                                                | Material                                                          | Date                                                                  |
+|:---:|:----------------------------------------------------------------|:------------------------------------------------------------------|:---------------------------------------------------------------------:|
+| 1   | Introduction                                                    | <a href="/material/#topic-1-introduction">Topic 1</a>             | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ مهر<br></div>  |
+| 2   | Intro. to Probabilistic Graphical Models                        | <a href="/material/#topic-2-pgm-representation">Topic 2</a>       | <div style="direction: rtl;font-family: Vazirmatn;">۲۲ مهر<br></div>  |
+| 3   | Intro. to Probabilistic Graphical Models                        | <a href="/material/#topic-3-pgm-inference">Topic 3</a>            | <div style="direction: rtl;font-family: Vazirmatn;">۲۷ مهر<br></div>  |
+| 4   | Intro. to Probabilistic Graphical Models                        | <a href="/material/#topic-4-pgm-learning">Topic 4</a>             | <div style="direction: rtl;font-family: Vazirmatn;">۲۹ مهر<br></div>  |
+| 5   | Autoregressive Models                                           | <a href="/material/#topic-5-autoregressive-models">Topic 5</a>    | <div style="direction: rtl;font-family: Vazirmatn;">۴ آبان<br></div>  |
+| 6   | Autoregressive Models                                           | <a href="/material/#topic-5-autoregressive-models">Topic 5</a>    | <div style="direction: rtl;font-family: Vazirmatn;">۶ آبان<br></div>  |
+| 7   | VAEs                                                            | <a href="/material/#topic-6-variational-autoencoder">Topic 6</a>  | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آبان<br></div> |
+| 8   | VAEs                                                            | <a href="/material/#topic-6-variational-autoencoder">Topic 6</a>  | <div style="direction: rtl;font-family: Vazirmatn;">۱۳ آبان<br></div> |
+| 9   | GANs                                                            | <a href="/material/#topic-7-gan">Topic 7</a>                      | <div style="direction: rtl;font-family: Vazirmatn;">۱۸ آبان<br></div> |
+| 10  | GANs                                                            | <a href="/material/#topic-7-gan">Topic 7</a>                      | <div style="direction: rtl;font-family: Vazirmatn;">۲۰ آبان<br></div> |
+| 11  | Normalizing Flows and Invertible Models                         | <a href="/material/#topic-8-normalizing-flow">Topic 8</a>         | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> |
+| 12  | Energy Based Models                                             | <a href="/material/#topic-9-energy-based-models">Topic 9</a>      | <div style="direction: rtl;font-family: Vazirmatn;">۲۷ آبان<br></div> |
+| 13  | Energy Based Models                                             | <a href="/material/#topic-9-energy-based-models">Topic 9</a>      | <div style="direction: rtl;font-family: Vazirmatn;">۲ آذر<br></div>   |
+| 14  | Score Based Models and SDEs                                     | <a href="/material/#topic-10-score-based-models">Topic 10</a>     | <div style="direction: rtl;font-family: Vazirmatn;">۴ آذر<br></div>   |
+| 15  | Score Based Models and SDEs                                     | <a href="/material/#topic-10-score-based-models">Topic 10</a>     | <div style="direction: rtl;font-family: Vazirmatn;">۹ آذر<br></div>   |
+| 16  | Flow Matching                                                   |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آذر<br></div>  |
+| 17  | <div style="font-weight: bold; color: red;" >Midterm Exam</div> |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ آذر<br></div>  |
+| 18  | Intro. to Diffusion Models                                      |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۱۸ آذر<br></div>  |
+| 19  | Diffusion Models and ODE/Flows                                  |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آذر<br></div>  |
+| 20  | Text-to-Image Generation with Diffusion Models                  |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آذر<br></div>  |
+| 21  | Diffusion for Discrete Data                                     |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div>  |
+| 22  | Advanced Topics in Generative Models                            |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۲ دی<br></div>    |
+| 23  | Intro. to LLMs and LMMs                                         |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۷ دی<br></div>    |
+| 24  | LLM Emergent Abilities                                          |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۹ دی<br></div>    |
+| 25  | LLM Emergent Abilities                                          |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۱۴ دی<br></div>   |
+| 26  | Reasoning in LLMs                                               |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   |
+| 27  | Reasoning in LLMs                                               |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۲۱ دی<br></div>   |
+| 28  | Reasoning in LLMs                                               |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ دی<br></div>   |
 
 ### Homeworks
 
