@@ -206,9 +206,6 @@ This page hosts all lecture slides and supplementary reading materials for each 
 [Download Slides (Animated PPTX)](/assets/slides/10-Score-Based-Models.pptx){:target="_blank" .md-button .md-button--primary }
 [Download Slides (Static PDF)](/assets/slides/10-Score-Based-Models.pdf){:target="_blank" .md-button }
 
-!!! warning "Format Recommendation"
-    The **PPTX** file is highly recommended as the slides contain animations and GIFs. If you view the PDF, you will encounter some overlapping elements and meaningless figures due to these animations.
-
 <details>
 <summary>Click to view slides (PDF) in browser</summary>
 <object class="pdf" 
@@ -217,6 +214,9 @@ This page hosts all lecture slides and supplementary reading materials for each 
         height="560">
 </object>
 </details>
+
+!!! warning "Format Recommendation"
+    The **PPTX** file is highly recommended as the slides contain animations and GIFs. If you view the PDF, you will encounter some overlapping elements and meaningless figures due to these animations.
 
 ### Supplementary Material
 * [Probabilistic Machine Learning (Textbook [2]), Chapter 25](https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning){:target="_blank"}
