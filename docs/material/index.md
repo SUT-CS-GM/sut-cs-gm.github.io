@@ -207,7 +207,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 [Download Slides (Static PDF)](/assets/slides/10-Score-Based-Models.pdf){:target="_blank" .md-button }
 
 !!! warning "Format Recommendation"
-    The **PPTX** file is highly recommended as the slides contain animations and GIFs. The PDF contains some overlapping elements and meaningless figures due to these animations.
+    The **PPTX** file is highly recommended as the slides contain animations and GIFs. If you view the PDF, you will encounter some overlapping elements and meaningless figures due to these animations.
 
 <details>
 <summary>Click to view slides (PDF) in browser</summary>
