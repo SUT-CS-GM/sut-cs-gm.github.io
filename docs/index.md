@@ -131,7 +131,7 @@ Upon successful completion of this course, students will be able to:
 | :------------------------------------------------------------------------------ | :------------------------------------------------------------------: | :-----------------------------------: |
 | <a href="/homeworks/#homework-1-pgms-ars">Homework 1: PGMs, ARs</a> | <div style="direction: rtl;font-family: Vazirmatn;">۷ آبان<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آبان<br></div> |
 | <a href="/homeworks/#homework-2-vaes-gans-flows">Homework 2: VAEs, GANs, Flows</a> | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۱۰ آذر<br></div>  |
-| Homework 3: EBMs, SDEs, Flow Matching                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۲۹ آذر<br></div> |
+| Homework 3: EBMs, SBMs, Flow Matching                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۲۹ آذر<br></div> |
 | Homework 4: Diffusion, ODEs                                                     | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ دی<br></div>  |
 | Homework 5: LLMs, LMMs                                                          | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ دی<br></div>  |
 

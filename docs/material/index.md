@@ -11,12 +11,12 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ## **Topic 1: Introduction**
 
-[Download Slides](/assets/slides/1-Introduction.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](/assets/slides/01-Introduction.pdf){:target="_blank" .md-button .md-button--primary }
 
 <details>
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
-        data="/assets/slides/1-Introduction.pdf"
+        data="/assets/slides/01-Introduction.pdf"
         width="910"
         height="560">
 </object>
@@ -29,12 +29,12 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ## **Topic 2: PGM Representation**
 
-[Download Slides](/assets/slides/2-PGM-Representation.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](/assets/slides/02-PGM-Representation.pdf){:target="_blank" .md-button .md-button--primary }
 
 <details>
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
-        data="/assets/slides/2-PGM-Representation.pdf"
+        data="/assets/slides/02-PGM-Representation.pdf"
         width="910"
         height="560">
 </object>
@@ -48,12 +48,12 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ## **Topic 3: PGM Inference**
 
-[Download Slides](/assets/slides/3-PGM-Inference.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](/assets/slides/03-PGM-Inference.pdf){:target="_blank" .md-button .md-button--primary }
 
 <details>
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
-        data="/assets/slides/3-PGM-Inference.pdf"
+        data="/assets/slides/03-PGM-Inference.pdf"
         width="910"
         height="560">
 </object>
@@ -68,12 +68,12 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ## **Topic 4: PGM Learning**
 
-[Download Slides](/assets/slides/4-PGM-Learning.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](/assets/slides/04-PGM-Learning.pdf){:target="_blank" .md-button .md-button--primary }
 
 <details>
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
-        data="/assets/slides/4-PGM-Learning.pdf"
+        data="/assets/slides/04-PGM-Learning.pdf"
         width="910"
         height="560">
 </object>
@@ -88,12 +88,12 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ## **Topic 5: Autoregressive Models**
 
-[Download Slides](/assets/slides/5-Autoregressive-Models.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](/assets/slides/05-Autoregressive-Models.pdf){:target="_blank" .md-button .md-button--primary }
 
 <details>
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
-        data="/assets/slides/5-Autoregressive-Models.pdf"
+        data="/assets/slides/05-Autoregressive-Models.pdf"
         width="910"
         height="560">
 </object>
@@ -111,12 +111,12 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ## **Topic 6: Variational Autoencoder**
 
-[Download Slides](/assets/slides/6-Variational-Autoencoder.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](/assets/slides/06-Variational-Autoencoder.pdf){:target="_blank" .md-button .md-button--primary }
 
 <details>
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
-        data="/assets/slides/6-Variational-Autoencoder.pdf"
+        data="/assets/slides/06-Variational-Autoencoder.pdf"
         width="910"
         height="560">
 </object>
@@ -131,12 +131,12 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ## **Topic 7: GAN**
 
-[Download Slides](/assets/slides/7-GAN.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](/assets/slides/07-GAN.pdf){:target="_blank" .md-button .md-button--primary }
 
 <details>
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
-        data="/assets/slides/7-GAN.pdf"
+        data="/assets/slides/07-GAN.pdf"
         width="910"
         height="560">
 </object>
@@ -153,12 +153,12 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ## **Topic 8: Normalizing Flow**
 
-[Download Slides](/assets/slides/8-Normalizing-Flow.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides](/assets/slides/08-Normalizing-Flow.pdf){:target="_blank" .md-button .md-button--primary }
 
 <details>
 <summary>Click to view slides in browser</summary>
 <object class="pdf" 
-        data="/assets/slides/8-Normalizing-Flow.pdf"
+        data="/assets/slides/08-Normalizing-Flow.pdf"
         width="910"
         height="560">
 </object>
@@ -174,13 +174,13 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ## **Topic 9: Energy-Based Models**
 
-[Download Slides (Part 1)](/assets/slides/9-EBM1-Stanford.pdf){:target="_blank" .md-button .md-button--primary }
-[Download Slides (Part 2)](/assets/slides/9-EBM2-Stanford.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides (Part 1)](/assets/slides/09-EBM1-Stanford.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Slides (Part 2)](/assets/slides/09-EBM2-Stanford.pdf){:target="_blank" .md-button .md-button--primary }
 
 <details>
 <summary>Click to view slides (Part 1) in browser</summary>
 <object class="pdf" 
-        data="/assets/slides/9-EBM1-Stanford.pdf"
+        data="/assets/slides/09-EBM1-Stanford.pdf"
         width="910"
         height="560">
 </object>
@@ -189,7 +189,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 <details>
 <summary>Click to view slides (Part 2) in browser</summary>
 <object class="pdf" 
-        data="/assets/slides/9-EBM2-Stanford.pdf"
+        data="/assets/slides/09-EBM2-Stanford.pdf"
         width="910"
         height="560">
 </object>
@@ -206,7 +206,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 [Download Slides (Animated PPTX)](/assets/slides/10-Score-Based-Models.pptx){:target="_blank" .md-button .md-button--primary }
 [Download Slides (Static PDF)](/assets/slides/10-Score-Based-Models.pdf){:target="_blank" .md-button }
 
-!!! note "Format Recommendation"
+!!! warning "Format Recommendation"
     The **PPTX** file is highly recommended as the slides contain animations and GIFs. The PDF contains some overlapping elements and meaningless figures due to these animations.
 
 <details>
