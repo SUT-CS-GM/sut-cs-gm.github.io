@@ -54,7 +54,7 @@ Please read the following policies carefully before submitting your work. These 
 
 * **Deadline:** 30 Azar 1404 (23:59)
 * **TAs Responsible:**
-    * T1, T3, P1: [َAli Salimi](../#ta-ali-salimi)
+    * T1, T3, P1: [Ali Salimi](../#ta-ali-salimi)
     * T2, P2: [Ramtin Moslemi](../#ta-ramtin-moslemi)
 
 [Download Assignment](/assets/homeworks/GM_HW3.zip){:target="_blank" .md-button .md-button--primary .disabled }
