@@ -48,19 +48,19 @@ Please read the following policies carefully before submitting your work. These 
 [Download Assignment](/assets/homeworks/GM_HW2.zip){:target="_blank" .md-button .md-button--primary .disabled }
 <!--[Download Solution](/assets/homeworks/GM_HW2_Sol.zip){:target="_blank" .md-button .disabled }-->
 
-<!---
 ---
 
-## Homework 3: EBMs, SDEs, Flow Matching
+## Homework 3: EBMs, SBMs, Flow Matching
 
-* **Deadline:** 29 Azar 1404 (23:59)
+* **Deadline:** 30 Azar 1404 (23:59)
 * **TAs Responsible:**
-    * Theoretical: [Name]()
-    * Practical: [Name]()
+    * T1, T3, P1: [َAli Salimi](../#ta-ali-salimi)
+    * T2, P2: [Ramtin Moslemi](../#ta-ramtin-moslemi)
 
 [Download Assignment](/assets/homeworks/GM_HW3.zip){:target="_blank" .md-button .md-button--primary .disabled }
-[Download Solution](/assets/homeworks/GM_HW3_Sol.zip){:target="_blank" .md-button .disabled }
+<!-- [Download Solution](/assets/homeworks/GM_HW3_Sol.zip){:target="_blank" .md-button .disabled } -->
 
+<!---
 ---
 
 ## Homework 4: Diffusion, ODEs
