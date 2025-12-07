@@ -39,3 +39,11 @@ The exam covers **Topics 1 through 8**. Please review the slides and notes for t
 
 !!! tip "Preparation Advice"
       The lecture slides cover the complete scope of the exam, including all necessary mathematical derivations. However, given the concise nature of the slides, we **highly recommend** consulting the **Supplementary Material** linked on the [Course Material](/material/) page. These resources provide the full context and narrative needed to gain a complete and deep understanding of the concepts presented in class.
+
+---
+
+## Previous Exams
+
+You can review the midterm exam from the previous offering (Fall 2024) to practice your timing and familiarity with the question style.
+
+[Download Fall 2024 Midterm Exam](/assets/exams/GM2024-Midterm-Exam.pdf){:target="_blank" .md-button .md-button--primary }
