@@ -46,7 +46,7 @@ Please read the following policies carefully before submitting your work. These 
     * GANs, Flows: [Mahshid Dehghani](../#ta-mahshid-dehghani)
 
 [Download Assignment](/assets/homeworks/GM_HW2.zip){:target="_blank" .md-button .md-button--primary .disabled }
-<!--[Download Solution](/assets/homeworks/GM_HW2_Sol.zip){:target="_blank" .md-button .disabled }-->
+[Download Solution](/assets/homeworks/GM_HW2_Sol.zip){:target="_blank" .md-button .disabled }
 
 ---
 
