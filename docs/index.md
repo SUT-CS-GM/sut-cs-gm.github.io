@@ -112,7 +112,7 @@ Upon successful completion of this course, students will be able to:
 | 14  | Energy Based Models                                             | <a href="/material/#topic-9-energy-based-models">Topic 9</a>      | <div style="direction: rtl;font-family: Vazirmatn;">۴ آذر<br></div>   |
 | 15  | Score Based Models and SDEs                                     | <a href="/material/#topic-10-score-based-models">Topic 10</a>     | <div style="direction: rtl;font-family: Vazirmatn;">۹ آذر<br></div>   |
 | 16  | Score Based Models and SDEs                                     | <a href="/material/#topic-10-score-based-models">Topic 10</a>     | <div style="direction: rtl;font-family: Vazirmatn;">۱۱ آذر<br></div>  |
-| 17  | <div style="font-weight: bold; color: red;" >Midterm Exam</div> |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ آذر<br></div>  |
+| 17  | <div style="font-weight: bold; color: red;" >Midterm Exam</div> | <a href="/exams/midterm">Exam Details</a>                         | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ آذر<br></div>  |
 | 18  | Score Based Models and SDEs                                     | <a href="/material/#topic-10-score-based-models">Topic 10</a>     | <div style="direction: rtl;font-family: Vazirmatn;">۱۸ آذر<br></div>  |
 | 19  | Flow Matching                                                   |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آذر<br></div>  |
 | 20  | Intro. to Diffusion Models                                      |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آذر<br></div>  |
@@ -127,13 +127,13 @@ Upon successful completion of this course, students will be able to:
 
 ### Homeworks
 
-| Homework                                                                                         | Release                                                               | Deadline                              |
-| :----------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------: | :-----------------------------------: |
+| Homework                                                                                         | Release                                                               | Deadline                                                               |
+| :----------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
 | <a href="/homeworks/#homework-1-pgms-ars">Homework 1: PGMs, ARs</a>                              | <div style="direction: rtl;font-family: Vazirmatn;">۷ آبان<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آبان<br></div> |
 | <a href="/homeworks/#homework-2-vaes-gans-flows">Homework 2: VAEs, GANs, Flows</a>               | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۱۰ آذر<br></div>  |
-| <a href="/homeworks/#homework-3-ebms-sbms-flow-matching">Homework 3: EBMs, SBMs, Flow Matching   | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div> |
-| Homework 4: Diffusion, ODEs                                                                      | <div style="direction: rtl;font-family: Vazirmatn;">۱ دی<br></div>    | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ دی<br></div>  |
-| Homework 5: LLMs, LMMs                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ دی<br></div>  |
+| <a href="/homeworks/#homework-3-ebms-sbms-flow-matching">Homework 3: EBMs, SBMs, Flow Matching   | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div>  |
+| Homework 4: Diffusion, ODEs                                                                      | <div style="direction: rtl;font-family: Vazirmatn;">۱ دی<br></div>    | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ دی<br></div>   |
+| Homework 5: LLMs, LMMs                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ دی<br></div>   |
 
 ---
 
