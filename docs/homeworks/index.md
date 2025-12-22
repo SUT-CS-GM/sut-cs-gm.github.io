@@ -52,7 +52,7 @@ Please read the following policies carefully before submitting your work. These 
 
 ## Homework 3: EBMs, SBMs, Flow Matching
 
-* **Deadline:** 30 Azar 1404 (23:59)
+* **Deadline:** 5 Dey 1404 (23:59)
 * **TAs Responsible:**
     * T1, T3, P1: [Ali Salimi](../#ta-ali-salimi)
     * T2, P2: [Ramtin Moslemi](../#ta-ramtin-moslemi)
