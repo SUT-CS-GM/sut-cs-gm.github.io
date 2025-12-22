@@ -222,3 +222,59 @@ This page hosts all lecture slides and supplementary reading materials for each 
 * [Probabilistic Machine Learning (Textbook [2]), Chapter 25](https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning){:target="_blank"}
 * [Yang Song's Blog: Generative Modeling by Estimating Gradients of the Data Distribution](https://yang-song.net/blog/2021/score){:target="_blank"}
 * [CSE599i: Score-Based Models & Denoising Notes](https://courses.cs.washington.edu/courses/cse599i/20au/resources/L17_denoising.pdf){:target="_blank"}
+
+---
+
+## **Topic 11: Flow Matching**
+
+[Download Slides](/assets/slides/11-Flow-Matching.pdf){:target="_blank" .md-button .md-button--primary }
+
+<details>
+<summary>Click to view slides in browser</summary>
+<object class="pdf" 
+        data="/assets/slides/11-Flow-Matching.pdf"
+        width="910"
+        height="560">
+</object>
+</details>
+
+### Supplementary Material
+* To Be Added
+
+---
+
+## **Topic 12: Diffusion Models**
+
+**Part 1: Introduction**
+
+[Download Slides](/assets/slides/12-Diffusion-Models.pdf){:target="_blank" .md-button .md-button--primary }
+
+<details>
+<summary>Click to view slides in browser</summary>
+<object class="pdf" 
+        data="/assets/slides/12-Diffusion-Models.pdf"
+        width="910"
+        height="560">
+</object>
+</details>
+
+**Part 2: Advanced Concepts (Stanford)**
+
+[Download Slides (Animated PPTX)](/assets/slides/12-Diffusion-Models-Stanford.pptx){:target="_blank" .md-button .md-button--primary }
+[Download Slides (Static PDF)](/assets/slides/12-Diffusion-Models-Stanford.pdf){:target="_blank" .md-button }
+
+<details>
+<summary>Click to view slides (PDF) in browser</summary>
+<object class="pdf" 
+        data="/assets/slides/12-Diffusion-Models-Stanford.pdf"
+        width="910"
+        height="560">
+</object>
+</details>
+
+!!! warning "Format Recommendation for Part 2"
+    For **Part 2**, the **PPTX** file is highly recommended as the slides contain animations. If you view the PDF, you will encounter some overlapping elements and meaningless figures due to these animations.
+
+### Supplementary Material
+* [Probabilistic Machine Learning (Textbook [2]), Chapter 25](https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning){:target="_blank"}
+* [Denoising Diffusion Probabilistic Models (DDPM) Paper](https://arxiv.org/pdf/2006.11239){:target="_blank"}
