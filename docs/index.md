@@ -115,15 +115,15 @@ Upon successful completion of this course, students will be able to:
 | 17  | <div style="font-weight: bold; color: red;" >Midterm Exam</div> | <a href="/exams/midterm">Details</a>                              | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ آذر<br></div>  |
 | 18  | Score Based Models and SDEs                                     | <a href="/material/#topic-10-score-based-models">Topic 10</a>     | <div style="direction: rtl;font-family: Vazirmatn;">۱۸ آذر<br></div>  |
 | 19  | Flow Matching                                                   | <a href="/material/#topic-11-flow-matching">Topic 11</a>          | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آذر<br></div>  |
-| 20  | Intro. to Diffusion Models                                      | <a href="/material/#topic-12-diffusion-models">Topic 12</a>       | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آذر<br></div>  |
-| 21  | Text-to-Image Generation with Diffusion Models                  |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div>  |
-| 22  | Discrete Latent Variable Models                                 |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۲ دی<br></div>    |
-| 23  | Evaluation of Generative Models                                 |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۷ دی<br></div>    |
-| 24  | Intro. to LMMs (Multi-Modal Models)                             |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۹ دی<br></div>    |
-| 25  | LLM Emergent Abilities                                          |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۱۴ دی<br></div>   |
-| 26  | LLM Emergent Abilities (Reasoning)                              |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   |
-| 27  | RLHF, RAG                                                       |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۲۱ دی<br></div>   |
-| 28  | RLHF, RAG                                                       |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ دی<br></div>   |
+| 20  | Flow Matching                                                   | <a href="/material/#topic-11-flow-matching">Topic 11</a>          | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آذر<br></div>  |
+| 21  | Denoising Diffusion Models                                      | <a href="/material/#topic-12-diffusion-models">Topic 12</a>       | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div>  |
+| 22  | LLMs (PEFT)                                                     |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۲ دی<br></div>    |
+| 23  | Intro. to LMMs (Multi-Modal Models)                             |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۷ دی<br></div>    |
+| 24  | LLM Emergent Abilities                                          |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۹ دی<br></div>    |
+| 25  | LLM Emergent Abilities (Reasoning)                              |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۱۴ دی<br></div>   |
+| 26  | RAG                                                             |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   |
+| 27  | RLHF                                                            |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۲۱ دی<br></div>   |
+| 28  | Evaluation of Generative Models                                 |                                                                   | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ دی<br></div>   |
 
 ### Homeworks
 
@@ -131,8 +131,8 @@ Upon successful completion of this course, students will be able to:
 | :----------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------: | :--------------------------------------------------------------------: |
 | <a href="/homeworks/#homework-1-pgms-ars">Homework 1: PGMs, ARs</a>                              | <div style="direction: rtl;font-family: Vazirmatn;">۷ آبان<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آبان<br></div> |
 | <a href="/homeworks/#homework-2-vaes-gans-flows">Homework 2: VAEs, GANs, Flows</a>               | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۱۰ آذر<br></div>  |
-| <a href="/homeworks/#homework-3-ebms-sbms-flow-matching">Homework 3: EBMs, SBMs, Flow Matching   | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ آذر<br></div>  |
-| Homework 4: Diffusion, ODEs                                                                      | <div style="direction: rtl;font-family: Vazirmatn;">۱ دی<br></div>    | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ دی<br></div>   |
+| <a href="/homeworks/#homework-3-ebms-sbms-flow-matching">Homework 3: EBMs, SBMs, Flow Matching   | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۵ دی<br></div>  |
+| Homework 4: Denoising Diffusion                                                                  | <div style="direction: rtl;font-family: Vazirmatn;">۵ دی<br></div>    | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   |
 | Homework 5: LLMs, LMMs                                                                           | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۳۰ دی<br></div>   |
 
 ---
