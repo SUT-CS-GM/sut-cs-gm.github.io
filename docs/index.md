@@ -7,7 +7,7 @@ hide:
 
 # Course Overview
 
-Welcome to the Fall 2025 offering of the Deep Generative Models course at SUT! We are excited to have you join us on this journey into one of the most dynamic and foundational fields in modern artificial intelligence.
+Welcome to the Fall 2025 offering of the Generative Models course at SUT! We are excited to have you join us on this journey into one of the most dynamic and foundational fields in modern artificial intelligence.
 
 * **University:** Sharif University of Technology (SUT)
 * **Department:** Department of Mathematical Sciences
@@ -17,7 +17,7 @@ Welcome to the Fall 2025 offering of the Deep Generative Models course at SUT! W
 
 <details markdown="1">
 <summary><b>Course Description</b> (Click to Expand)</summary>
-This course provides a comprehensive, in-depth introduction to the principles, algorithms, and applications of deep generative modeling. We will explore a wide array of foundational and state-of-the-art architectures, beginning with core probabilistic concepts.
+This course provides a comprehensive, in-depth introduction to the principles, algorithms, and applications of generative modeling. We will explore a wide array of foundational and state-of-the-art architectures, beginning with core probabilistic concepts.
 
 Key topics are structured around three main pillars:
 
@@ -31,7 +31,7 @@ Key topics are structured around three main pillars:
 Upon successful completion of this course, students will be able to:
 
 * **Understand** the fundamental principles and theoretical underpinnings of major generative model families.
-* **Implement** and train deep generative models for practical applications and problem domains.
+* **Implement** and train generative models for practical applications and problem domains.
 * **Master** the core concepts and mathematical foundations required to analyze and compare different model architectures.
 * **Develop** the theoretical knowledge necessary to read, understand, and critically assess current research papers in the field.
 </details>
@@ -155,14 +155,14 @@ Upon successful completion of this course, students will be able to:
 
 ## Grading
 
-The grading for the Deep Generative Models course is structured as follows:
+The grading for the Generative Models course is structured as follows:
 
-| Assessment Component                     | Points                   |
-| :--------------------------------------- | :----------------------: |
-| Homeworks (5 practical & conceptual HWs) | 10 + [1 Extra Point]     |
-| Midterm                                  | 4                        |
-| Final                                    | 6                        |
-| **Total**                                | **20 + [1 Extra Point]** |
+| Assessment Component                      | Points                   |
+| :---------------------------------------- | :----------------------: |
+| Homeworks (5 Theoretical & Practical HWs) | 10 + [1 Extra Point]     |
+| Midterm                                   | 4                        |
+| Final                                     | 6                        |
+| **Total**                                 | **20 + [1 Extra Point]** |
 
 ---
 
