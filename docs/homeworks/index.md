@@ -60,19 +60,19 @@ Please read the following policies carefully before submitting your work. These 
 [Download Assignment](/assets/homeworks/GM_HW3.zip){:target="_blank" .md-button .md-button--primary .disabled }
 <!-- [Download Solution](/assets/homeworks/GM_HW3_Sol.zip){:target="_blank" .md-button .disabled } -->
 
-<!---
 ---
 
-## Homework 4: Diffusion, ODEs
+## Homework 4: Diffusion, Evaluation
 
-* **Deadline:** 15 Dey 1404 (23:59)
+* **Deadline:** 21 Dey 1404 (23:59)
 * **TAs Responsible:**
-    * Theoretical: [Name]()
-    * Practical: [Name]()
+    * T1, P2, P3: [Sara Karimi](../#ta-sara-karimi)
+    * T2, T3, P1: [Mohamad Hosein Mehdikhani](../#ta-mohamad-hosein-mehdikhani)
 
 [Download Assignment](/assets/homeworks/GM_HW4.zip){:target="_blank" .md-button .md-button--primary .disabled }
-[Download Solution](/assets/homeworks/GM_HW4_Sol.zip){:target="_blank" .md-button .disabled }
+<!-- [Download Solution](/assets/homeworks/GM_HW4_Sol.zip){:target="_blank" .md-button .disabled } -->
 
+<!---
 ---
 
 ## Homework 5: LLMs, LMMs
