@@ -295,7 +295,7 @@ This page hosts all lecture slides and supplementary reading materials for each 
 </details>
 
 ### Supplementary Material
-* [A Note on the Evaluation of Generative Models (Theis et al.)](https://arxiv.org/pdf/1511.01844){:target="_blank"}
+* [A Note on the Evaluation of Generative Models (Theis et al. 2016)](https://arxiv.org/pdf/1511.01844){:target="_blank"}
 
 ---
 
