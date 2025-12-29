@@ -5,42 +5,7 @@ description: Assignments, solutions, and deadlines for the Generative Models cou
 
 # Homeworks
 
----
-
-## Grades & Oral Defenses
-
-Here you can find the current grades and the schedule for practical defenses.
-
-<div class="grid cards" markdown>
-
--   **Course Grades**
-    
-    ---
-    View preliminary grades for theoretical and practical assignments.
-    
-    [:fontawesome-solid-table: View Grades Sheet](https://docs.google.com/spreadsheets/d/1BUbpPQ7GOlgn2W4WrC4iRmmUR2tFX5gtwpR8DlxVJKo){:target="_blank" .md-button }
-
--   **Presentation Schedule**
-
-    ---
-    Sign up for a time slot for HW1 & HW2 practical defenses.
-    
-    [:fontawesome-solid-calendar-check: Select Time Slot](https://docs.google.com/spreadsheets/d/1e9kjir1YWnvWZA_qtDDhk-XPC_akAPXVwhghMg5vKnw){:target="_blank" .md-button .md-button--primary }
-
-</div>
-
-!!! info "Grade Objections"
-    * **Procedure:** Before messaging a TA, please check the solution key and any comments left in the document.
-    * **Contacts:**
-        * **HW1 Theory:** [Firoozeh Abrishami](../#ta-firoozeh-abrishami)
-        * **HW1 Practical:** [Shaygan Adim](../#ta-shaygan-adim)
-        * **HW2 (Theory Q1-2, Practical Q1):** [Amir Mohammad Fakhimi](../#ta-amir-mohammad-fakhimi)
-        * **HW2 (Theory Q3-5, Practical Q2-3):** [Mahshid Dehghani](../#ta-mahshid-dehghani)
-
-!!! warning "Defense Guidelines"
-    * **Tentative Grades:** Practical grades listed in the sheet are **preliminary**. The final score is confirmed only after the oral defense. Failure to demonstrate mastery of your code will result in a grade deduction.
-    * **Attendance:** Defenses are **individual** and short. Please enter the meeting link inside the sheets exactly at your selected time.
-    * **Rescheduling:** If you have a valid excuse and cannot attend the listed slots, contact the respective TA immediately.
+This page serves as the central repository for all course assignments. Below you will find the release dates, deadlines, and downloadable materials for both theoretical and practical components. Official solutions will also be published here after the final deadline for each assignment has passed. Please review the policies carefully before starting your first assignment.
 
 ---
 
@@ -120,3 +85,46 @@ Please read the following policies carefully before submitting your work. These 
 [Download Assignment](/assets/homeworks/GM_HW5.zip){:target="_blank" .md-button .md-button--primary .disabled }
 [Download Solution](/assets/homeworks/GM_HW5_Sol.zip){:target="_blank" .md-button .disabled }
 -->
+
+---
+
+## Grades & Oral Defenses
+
+Here you can find the current grades and the schedule for practical defenses.
+
+<div class="grid cards" markdown>
+
+-   **Course Grades**
+    
+    ---
+    
+    View preliminary grades for theoretical and practical assignments.
+
+    <div style="height: 1px;"></div>
+    
+    [:fontawesome-solid-table: View Grades Sheet](https://docs.google.com/spreadsheets/d/1BUbpPQ7GOlgn2W4WrC4iRmmUR2tFX5gtwpR8DlxVJKo){:target="_blank" .md-button }
+
+-   **Presentation Schedule**
+
+    ---
+
+    Sign up for a time slot for HW1 & HW2 practical defenses.
+    
+    <div style="height: 1px;"></div>
+
+    [:fontawesome-solid-calendar-check: Select Time Slot](https://docs.google.com/spreadsheets/d/1e9kjir1YWnvWZA_qtDDhk-XPC_akAPXVwhghMg5vKnw){:target="_blank" .md-button .md-button--primary }
+
+</div>
+
+!!! info "Grade Objections"
+    * **Procedure:** Before messaging a TA, please check the solution key and any comments left in the document.
+    * **Contacts:**
+        * **HW1 Theory:** [Firoozeh Abrishami](../#ta-firoozeh-abrishami)
+        * **HW1 Practical:** [Shaygan Adim](../#ta-shaygan-adim)
+        * **HW2 (Theory Q1-2, Practical Q1):** [Amir Mohammad Fakhimi](../#ta-amir-mohammad-fakhimi)
+        * **HW2 (Theory Q3-5, Practical Q2-3):** [Mahshid Dehghani](../#ta-mahshid-dehghani)
+
+!!! warning "Defense Guidelines"
+    * **Tentative Grades:** Practical grades listed in the sheet are **preliminary**. The final score is confirmed only after the oral defense. Failure to demonstrate mastery of your code will result in a grade deduction.
+    * **Attendance:** Defenses are **individual** and short. Please enter the meeting link inside the sheets exactly at your selected time.
+    * **Rescheduling:** If you have a valid excuse and cannot attend the listed slots, contact the respective TA immediately.
