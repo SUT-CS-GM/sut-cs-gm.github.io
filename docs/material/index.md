@@ -278,3 +278,39 @@ This page hosts all lecture slides and supplementary reading materials for each 
 ### Supplementary Material
 * [Probabilistic Machine Learning (Textbook [2]), Chapter 25](https://mitpress.mit.edu/9780262048439/probabilistic-machine-learning){:target="_blank"}
 * [Denoising Diffusion Probabilistic Models (DDPM) Paper](https://arxiv.org/pdf/2006.11239){:target="_blank"}
+
+---
+
+## **Topic 13: Evaluation of Generative Models**
+
+[Download Slides](/assets/slides/13-Evaluation-Stanford.pdf){:target="_blank" .md-button .md-button--primary }
+
+<details>
+<summary>Click to view slides in browser</summary>
+<object class="pdf" 
+        data="/assets/slides/13-Evaluation-Stanford.pdf"
+        width="910"
+        height="560">
+</object>
+</details>
+
+### Supplementary Material
+* [A Note on the Evaluation of Generative Models (Theis et al.)](https://arxiv.org/pdf/1511.01844){:target="_blank"}
+
+---
+
+## **Topic 14: Parameter-Efficient Fine-Tuning (PEFT)**
+
+[Download Slides](/assets/slides/14-Parameter-Efficient-Fine-Tuning-CMU.pdf){:target="_blank" .md-button .md-button--primary }
+
+<details>
+<summary>Click to view slides in browser</summary>
+<object class="pdf" 
+        data="/assets/slides/14-Parameter-Efficient-Fine-Tuning-CMU.pdf"
+        width="910"
+        height="560">
+</object>
+</details>
+
+### Supplementary Material
+* To Be Added
