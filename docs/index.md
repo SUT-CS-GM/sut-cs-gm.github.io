@@ -124,6 +124,7 @@ Upon successful completion of this course, students will be able to:
 | 26  | LLM Emergent Abilities (Reasoning)                              |                                                                                 | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   |
 | 27  | RAG                                                             |                                                                                 | <div style="direction: rtl;font-family: Vazirmatn;">۲۱ دی<br></div>   |
 | 28  | RLHF                                                            |                                                                                 | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ دی<br></div>   |
+| #   | <div style="font-weight: bold; color: red;" >Final Exam</div>   | <a href="/exams/final">Details</a>                                              | <div style="direction: rtl;font-family: Vazirmatn;">۸ بهمن<br></div>  |
 
 ### Homeworks Schedule
 

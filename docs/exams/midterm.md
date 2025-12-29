@@ -1,6 +1,6 @@
 ---
 title: Midterm Exam
-description: Information regarding the Fall 2025 Midterm Exam.
+description: Information, questions, and solutions for the Fall 2025 Midterm Exam.
 comments: False
 ---
 
@@ -8,13 +8,36 @@ comments: False
 
 The Fall 2025 Midterm Exam serves as a comprehensive assessment of the foundational concepts covered in the first half of the semester. The exam is designed to evaluate your theoretical understanding, mathematical derivations, and analysis of model architectures presented from **Topic 1 (Introduction)** through **Topic 8 (Normalizing Flows)**.
 
----
+!!! check "Status: Concluded"
+    The Fall 2025 Midterm Exam was successfully held on **December 7, 2025**.
 
-## Logistics
+---
+<!-- 
+## Exam Questions & Solutions
+
+You can download the exam file and the official solutions below.
+
+[Download Exam Questions](/assets/exams/GM2025-Midterm.pdf){:target="_blank" .md-button .md-button--primary }
+[Download Solutions](/assets/exams/GM2025-Midterm-Sol.pdf){:target="_blank" .md-button }
+
+<details>
+<summary>Click to view Exam Questions in browser</summary>
+<object class="pdf" 
+        data="/assets/exams/GM2025-Midterm.pdf"
+        width="910"
+        height="560">
+</object>
+</details>
+
+<div style="height: 1px;"></div>
+
+--- -->
+
+## Logistics (Archived)
 
 The exam will take place during the regular class hours.
 
-* **Date:** Sunday, <span dir="rtl" style="font-family: Vazirmatn;">۹ آذر ۱۴۰۴</span> (November 30, 2025)
+* **Date:** Sunday, <span dir="rtl" style="font-family: Vazirmatn;">۱۶ آذر ۱۴۰۴</span> (December 7, 2025)
 * **Time:** 10:30 – 12:30
 * **Location:** Department of Mathematical Sciences, Classroom 211 *(same as all classes)*
 
