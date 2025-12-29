@@ -99,20 +99,18 @@ Here you can find the current grades and the schedule for practical defenses.
     ---
     
     View preliminary grades for theoretical and practical assignments.
-
-    <div style="height: 1px;"></div>
+    <br>
     
-    [:fontawesome-solid-table: View Grades Sheet](https://docs.google.com/spreadsheets/d/1BUbpPQ7GOlgn2W4WrC4iRmmUR2tFX5gtwpR8DlxVJKo){:target="_blank" .md-button }
+    [:fontawesome-solid-table: &nbsp;&nbsp;View Grades Sheet](https://docs.google.com/spreadsheets/d/1BUbpPQ7GOlgn2W4WrC4iRmmUR2tFX5gtwpR8DlxVJKo){:target="_blank" .md-button }
 
 -   **Presentation Schedule**
 
     ---
 
     Sign up for a time slot for HW1 & HW2 practical defenses.
-    
-    <div style="height: 1px;"></div>
+    <br>
 
-    [:fontawesome-solid-calendar-check: Select Time Slot](https://docs.google.com/spreadsheets/d/1e9kjir1YWnvWZA_qtDDhk-XPC_akAPXVwhghMg5vKnw){:target="_blank" .md-button .md-button--primary }
+    [:fontawesome-solid-calendar-check: &nbsp;&nbsp;Select Time Slot](https://docs.google.com/spreadsheets/d/1e9kjir1YWnvWZA_qtDDhk-XPC_akAPXVwhghMg5vKnw){:target="_blank" .md-button .md-button--primary }
 
 </div>
 
