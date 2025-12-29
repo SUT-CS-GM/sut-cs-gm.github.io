@@ -90,7 +90,7 @@ Upon successful completion of this course, students will be able to:
 
 ---
 
-## Course Details
+## Course Schedule
 
 ### Lectures & Exams Schedule
 
