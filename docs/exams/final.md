@@ -30,8 +30,9 @@ The exam covers **Topic 9 through the end of the course**. Please review the sli
 4.  [**Topic 12: Diffusion Models**](/material/#topic-12-diffusion-models)
 5.  [**Topic 13: Evaluation of Generative Models**](/material/#topic-13-evaluation-of-generative-models)
 6.  [**Topic 14: Parameter-Efficient Fine-Tuning (PEFT)**](/material/#topic-14-parameter-efficient-fine-tuning-peft)
-7.  **Large Language Models (LLMs) & Advanced Topics:**
-    * Introduction to LLMs & Multi-Modal Models (LMMs)
+7.  [**Topic 15: Multi-Modal Models**](/material/#topic-15-multi-modal-models)
+8.  **Large Language Models (LLMs) & Advanced Topics:**
+    * Large Language Models
     * Emergent Abilities & Reasoning
     * RLHF (Reinforcement Learning from Human Feedback) & RAG
 

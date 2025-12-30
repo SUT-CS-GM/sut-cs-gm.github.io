@@ -314,3 +314,21 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ### Supplementary Material
 * To Be Added
+
+---
+
+## **Topic 15: Multi-Modal Models**
+
+[Download Slides](/assets/slides/15-LMM.pdf){:target="_blank" .md-button .md-button--primary }
+
+<details>
+<summary>Click to view slides in browser</summary>
+<object class="pdf" 
+        data="/assets/slides/15-LMM.pdf"
+        width="910"
+        height="560">
+</object>
+</details>
+
+### Supplementary Material
+* To Be Added
