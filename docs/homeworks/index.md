@@ -58,7 +58,7 @@ Please read the following policies carefully before submitting your work. These 
     * T2, P2: [Ramtin Moslemi](../#ta-ramtin-moslemi)
 
 [Download Assignment](/assets/homeworks/GM_HW3.zip){:target="_blank" .md-button .md-button--primary .disabled }
-<!-- [Download Solution](/assets/homeworks/GM_HW3_Sol.zip){:target="_blank" .md-button .disabled } -->
+[Download Solution](/assets/homeworks/GM_HW3_Sol.zip){:target="_blank" .md-button .disabled }
 
 ---
 
