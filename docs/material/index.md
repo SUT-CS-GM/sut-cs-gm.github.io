@@ -332,3 +332,39 @@ This page hosts all lecture slides and supplementary reading materials for each 
 
 ### Supplementary Material
 * To Be Added
+
+---
+
+## **Topic 16: LLM Emergent Abilities**
+
+[Download Slides](/assets/slides/16-LLM-Emergent-Abilities.pdf){:target="_blank" .md-button .md-button--primary }
+
+<details>
+<summary>Click to view slides in browser</summary>
+<object class="pdf" 
+        data="/assets/slides/16-LLM-Emergent-Abilities.pdf"
+        width="910"
+        height="560">
+</object>
+</details>
+
+### Supplementary Material
+* To Be Added
+
+---
+
+## **Topic 17: RAG and RLHF**
+
+[Download Slides](/assets/slides/17-RAG-RLHF.pdf){:target="_blank" .md-button .md-button--primary }
+
+<details>
+<summary>Click to view slides in browser</summary>
+<object class="pdf" 
+        data="/assets/slides/17-RAG-RLHF.pdf"
+        width="910"
+        height="560">
+</object>
+</details>
+
+### Supplementary Material
+* To Be Added

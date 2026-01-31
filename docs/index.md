@@ -120,11 +120,11 @@ Upon successful completion of this course, students will be able to:
 | 22  | Evaluation of Generative Models                                 | <a href="/material/#topic-13-evaluation-of-generative-models">Topic 13</a>      | <div style="direction: rtl;font-family: Vazirmatn;">۲ دی<br></div>    |
 | 23  | LLMs (PEFT)                                                     | <a href="/material/#topic-14-parameter-efficient-fine-tuning-peft">Topic 14</a> | <div style="direction: rtl;font-family: Vazirmatn;">۷ دی<br></div>    |
 | 24  | Intro. to LMMs (Multi-Modal Models)                             | <a href="/material/#topic-15-multi-modal-models">Topic 15</a>                   | <div style="direction: rtl;font-family: Vazirmatn;">۹ دی<br></div>    |
-| 25  | LLM Emergent Abilities                                          |                                                                                 | <div style="direction: rtl;font-family: Vazirmatn;">۱۴ دی<br></div>   |
-| 26  | LLM Emergent Abilities (Reasoning)                              |                                                                                 | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   |
-| 27  | RAG                                                             |                                                                                 | <div style="direction: rtl;font-family: Vazirmatn;">۲۱ دی<br></div>   |
-| 28  | RLHF                                                            |                                                                                 | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ دی<br></div>   |
-| #   | <div style="font-weight: bold; color: red;" >Final Exam</div>   | <a href="/exams/final">Details</a>                                              | <div style="direction: rtl;font-family: Vazirmatn;">۸ بهمن<br></div>  |
+| 25  | LLM Emergent Abilities                                          | <a href="/material/#topic-16-llm-emergent-abilities">Topic 16</a>               | <div style="direction: rtl;font-family: Vazirmatn;">۱۴ دی<br></div>   |
+| 26  | LLM Emergent Abilities (Reasoning)                              | <a href="/material/#topic-16-llm-emergent-abilities">Topic 16</a>               | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ دی<br></div>   |
+| 27  | RAG                                                             | <a href="/material/#topic-17-rag-and-rlhf">Topic 17</a>                         | <div style="direction: rtl;font-family: Vazirmatn;">۲۱ دی<br></div>   |
+| 28  | RLHF                                                            | <a href="/material/#topic-17-rag-and-rlhf">Topic 17</a>                         | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ دی<br></div>   |
+| #   | <div style="font-weight: bold; color: red;" >Final Exam</div>   | <a href="/exams/final">Details</a>                                              | <div style="direction: rtl;font-family: Vazirmatn;">۱۶ بهمن<br></div> |
 
 ### Homeworks Schedule
 
@@ -133,8 +133,8 @@ Upon successful completion of this course, students will be able to:
 | <a href="/homeworks/#homework-1-pgms-ars">Homework 1: PGMs, ARs</a>                                | <div style="direction: rtl;font-family: Vazirmatn;">۷ آبان<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۲۳ آبان<br></div> |
 | <a href="/homeworks/#homework-2-vaes-gans-flows">Homework 2: VAEs, GANs, Flows</a>                 | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۱۰ آذر<br></div>  |
 | <a href="/homeworks/#homework-3-ebms-sbms-flow-matching">Homework 3: EBMs, SBMs, Flow Matching</a> | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۵ دی<br></div>    |
-| <a href="/homeworks/#homework-4-diffusion-evaluation">Homework 4: Diffusion, Evaluation</a>        | <div style="direction: rtl;font-family: Vazirmatn;">۶ دی<br></div>    | <div style="direction: rtl;font-family: Vazirmatn;">۲۱ دی<br></div>   |
-| Homework 5: LLMs, LMMs                                                                             | <div style="direction: rtl;font-family: Vazirmatn;">۲۲ دی<br></div>   | <div style="direction: rtl;font-family: Vazirmatn;">۱۰ بهمن<br></div> |
+| <a href="/homeworks/#homework-4-diffusion-evaluation">Homework 4: Diffusion, Evaluation</a>        | <div style="direction: rtl;font-family: Vazirmatn;">۶ دی<br></div>    | <div style="direction: rtl;font-family: Vazirmatn;">۱۸ بهمن<br></div>   |
+| Homework 5: LMMs, LMMs, RAG, RLHF                                                                  | <div style="direction: rtl;font-family: Vazirmatn;">۱۹ بهمن<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۲ اسفند<br></div> |
 
 ---
 
