@@ -134,7 +134,7 @@ Upon successful completion of this course, students will be able to:
 | <a href="/homeworks/#homework-2-vaes-gans-flows">Homework 2: VAEs, GANs, Flows</a>                 | <div style="direction: rtl;font-family: Vazirmatn;">۲۵ آبان<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۱۰ آذر<br></div>  |
 | <a href="/homeworks/#homework-3-ebms-sbms-flow-matching">Homework 3: EBMs, SBMs, Flow Matching</a> | <div style="direction: rtl;font-family: Vazirmatn;">۱۵ آذر<br></div>  | <div style="direction: rtl;font-family: Vazirmatn;">۵ دی<br></div>    |
 | <a href="/homeworks/#homework-4-diffusion-evaluation">Homework 4: Diffusion, Evaluation</a>        | <div style="direction: rtl;font-family: Vazirmatn;">۶ دی<br></div>    | <div style="direction: rtl;font-family: Vazirmatn;">۱۸ بهمن<br></div>   |
-| Homework 5: LMMs, LMMs, RAG, RLHF                                                                  | <div style="direction: rtl;font-family: Vazirmatn;">۱۹ بهمن<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۲ اسفند<br></div> |
+| Homework 5: LMMs, LLMs, RAG, RLHF                                                                  | <div style="direction: rtl;font-family: Vazirmatn;">۱۹ بهمن<br></div> | <div style="direction: rtl;font-family: Vazirmatn;">۲ اسفند<br></div> |
 
 ---
 
