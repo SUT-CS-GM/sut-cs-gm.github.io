@@ -64,7 +64,7 @@ Please read the following policies carefully before submitting your work. These 
 
 ## Homework 4: Diffusion, Evaluation
 
-* **Deadline:** 21 Dey 1404 (23:59)
+* **Deadline:** 18 Bahman 1404 (23:59)
 * **TAs Responsible:**
     * T1, P2, P3: [Sara Karimi](../#ta-sara-karimi)
     * T2, T3, P1: [Mohamad Hosein Mehdikhani](../#ta-mohamad-hosein-mehdikhani)
