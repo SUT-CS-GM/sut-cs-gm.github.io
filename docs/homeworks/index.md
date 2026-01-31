@@ -127,4 +127,4 @@ Here you can find the current grades and the schedule for practical defenses.
 !!! warning "Defense Guidelines"
     * **Tentative Grades:** Practical grades listed in the sheet are **preliminary**. The final score is confirmed only after the oral defense. Failure to demonstrate mastery of your code will result in a grade deduction.
     * **Attendance:** Defenses are **individual** and short. Please enter the meeting link inside the sheets exactly at your selected time.
-    * **Rescheduling:** If you have a valid excuse and cannot attend the listed slots, contact the respective TA immediately.
+    * **Rescheduling:** If you have a valid excuse and cannot attend the listed slots, contact the respective TA immediately. Failure to do so will result in a grade of **zero** for the respective practical question.
