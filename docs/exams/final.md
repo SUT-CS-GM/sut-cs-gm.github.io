@@ -12,7 +12,7 @@ The Fall 2025 Final Exam serves as an assessment of the advanced generative arch
 
 ## Logistics
 
-* **Date:** Wednesday, <span dir="rtl" style="font-family: Vazirmatn;">۸ بهمن ۱۴۰۴</span> (January 28, 2026)
+* **Date:** Wednesday, <span dir="rtl" style="font-family: Vazirmatn;">۱۶ بهمن ۱۴۰۴</span> (February 5, 2026)
 * **Time:** 09:00
 * **Location:** Department of Mathematical Sciences
 
@@ -31,10 +31,8 @@ The exam covers **Topic 9 through the end of the course**. Please review the sli
 5.  [**Topic 13: Evaluation of Generative Models**](/material/#topic-13-evaluation-of-generative-models)
 6.  [**Topic 14: Parameter-Efficient Fine-Tuning (PEFT)**](/material/#topic-14-parameter-efficient-fine-tuning-peft)
 7.  [**Topic 15: Multi-Modal Models**](/material/#topic-15-multi-modal-models)
-8.  **Large Language Models (LLMs) & Advanced Topics:**
-    * Large Language Models
-    * Emergent Abilities & Reasoning
-    * RLHF (Reinforcement Learning from Human Feedback) & RAG
+8.  [**Topic 16: LLM Emergent Abilities**](/material/#topic-16-llm-emergent-abilities)
+9.  [**Topic 17: RAG and RLHF**](/material/#topic-17-rag-and-rlhf)
 
 <div style="height: 1px;"></div>
 
