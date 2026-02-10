@@ -212,7 +212,7 @@ The grading for the Generative Models course is structured as follows:
     <span class="description" id="ta-mohammad-ali-banayeeanzade">
         <p>**Mohammad Ali Banayeeanzade**</p>
         <p>Teaching Assistant</p>
-        <p>[a.banayeaab@gmail.com](mailto:a.banayeaab@gmail.com)</p>
+        <p>[a.banayeaab@gmail.com](mailto:a.banayeean@gmail.com)</p>
         <p>
         [:fontawesome-brands-telegram:](https://t.me/alibana82){:target="_blank"}
         [:fontawesome-brands-google-scholar:](https://scholar.google.com/citations?user=Q1meSQIAAAAJ&hl=en){:target="_blank"}
