@@ -72,19 +72,17 @@ Please read the following policies carefully before submitting your work. These 
 [Download Assignment](/assets/homeworks/GM_HW4.zip){:target="_blank" .md-button .md-button--primary .disabled }
 <!-- [Download Solution](/assets/homeworks/GM_HW4_Sol.zip){:target="_blank" .md-button .disabled } -->
 
-<!---
 ---
 
-## Homework 5: LLMs, LMMs
+## Homework 5: LMMs, LLMs, RAG, RLHF
 
-* **Deadline:** 30 Dey 1404 (23:59)
+* **Deadline:** 5 Esfand 1404 (23:59)
 * **TAs Responsible:**
-    * Theoretical: [Name]()
-    * Practical: [Name]()
+    * T1, T2, T3, P3: [Mohammad Shirkhani](../#ta-mohammad-shirkani)
+    * T4, T5, P1, P2: [Mohammad Ali Banayeeanzade](../#ta-mohammad-ali-banayeeanzade)
 
 [Download Assignment](/assets/homeworks/GM_HW5.zip){:target="_blank" .md-button .md-button--primary .disabled }
-[Download Solution](/assets/homeworks/GM_HW5_Sol.zip){:target="_blank" .md-button .disabled }
--->
+<!-- [Download Solution](/assets/homeworks/GM_HW5_Sol.zip){:target="_blank" .md-button .disabled } -->
 
 ---
 
