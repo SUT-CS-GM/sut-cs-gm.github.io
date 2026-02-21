@@ -96,7 +96,7 @@ Here you can find the current grades and the schedule for practical defenses.
     
     ---
     
-    View preliminary grades for theoretical and practical assignments.
+    View preliminary grades for the full assignments.
 
     <br>
     
@@ -106,7 +106,7 @@ Here you can find the current grades and the schedule for practical defenses.
 
     ---
 
-    Sign up for a time slot for the HW practical defenses.
+    Sign up for a time slot for practical HW defenses.
     
     <br>
 
