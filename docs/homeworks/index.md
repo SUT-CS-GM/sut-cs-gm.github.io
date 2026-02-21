@@ -76,7 +76,7 @@ Please read the following policies carefully before submitting your work. These 
 
 ## Homework 5: LMMs, LLMs, RAG, RLHF
 
-* **Deadline:** 5 Esfand 1404 (23:59)
+* **Deadline:** 8 Esfand 1404 (23:59)
 * **TAs Responsible:**
     * T1, T2, T3, P3: [Mohammad Shirkhani](../#ta-mohammad-shirkani)
     * T4, T5, P1, P2: [Mohammad Ali Banayeeanzade](../#ta-mohammad-ali-banayeeanzade)
@@ -106,7 +106,7 @@ Here you can find the current grades and the schedule for practical defenses.
 
     ---
 
-    Sign up for a time slot for HW1 & HW2 practical defenses.
+    Sign up for a time slot for the HW practical defenses.
     
     <br>
 
@@ -117,12 +117,18 @@ Here you can find the current grades and the schedule for practical defenses.
 !!! info "Grade Objections"
     * **Procedure:** Before messaging a TA, please check the solution key and any comments left in the document.
     * **Contacts:**
-        * **HW1 Theory:** [Firoozeh Abrishami](../#ta-firoozeh-abrishami)
+        * **HW1 Theoretical:** [Firoozeh Abrishami](../#ta-firoozeh-abrishami)
         * **HW1 Practical:** [Shaygan Adim](../#ta-shaygan-adim)
-        * **HW2 (Theory Q1-2, Practical Q1):** [Amir Mohammad Fakhimi](../#ta-amir-mohammad-fakhimi)
-        * **HW2 (Theory Q3-5, Practical Q2-3):** [Mahshid Dehghani](../#ta-mahshid-dehghani)
+        * **HW2 (Theoretical Q1-2, Practical Q1):** [Amir Mohammad Fakhimi](../#ta-amir-mohammad-fakhimi)
+        * **HW2 (Theoretical Q3-5, Practical Q2-3):** [Mahshid Dehghani](../#ta-mahshid-dehghani)
+        * **HW3 (Theoretical Q1&3, Practical Q1):** [Ali Salimi](../#ta-ali-salimi)
+        * **HW3 (Theoretical Q2, Practical Q2):** [Ramtin Moslemi](../#ta-ramtin-moslemi)
+        * **HW4 (Theoretical Q1, Practical Q2-3):** [Sara Karimi](../#ta-sara-karimi)
+        * **HW4 (Theoretical Q2-3, Practical Q1):** [Mohamad Hosein Mehdikhani](../#ta-mohamad-hosein-mehdikhani)
+        * **HW5 (Theoretical Q1-3, Practical Q3):** [Mohammad Shirkhani](../#ta-mohammad-shirkani)
+        * **HW5 (Theoretical Q4-5, Practical Q1-2):** [Mohammad Ali Banayeeanzade](../#ta-mohammad-ali-banayeeanzade)
 
 !!! warning "Defense Guidelines"
     * **Tentative Grades:** Practical grades listed in the sheet are **preliminary**. The final score is confirmed only after the oral defense. Failure to demonstrate mastery of your code will result in a grade deduction.
     * **Attendance:** Defenses are **individual** and short. Please enter the meeting link inside the sheets exactly at your selected time.
-    * **Rescheduling:** If you have a valid excuse and cannot attend the listed slots, contact the respective TA immediately. Failure to do so will result in a grade of **zero** for the respective practical question.
+    * **Rescheduling:** If you have a valid excuse and cannot attend any of the listed slots, contact the respective TA immediately so that they may introduce a new, specialzed slot. Failure to do so will result in a grade of **zero** for the respective practical question.
