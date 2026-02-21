@@ -117,8 +117,8 @@ Here you can find the current grades and the schedule for practical defenses.
 !!! info "Grade Objections"
     * **Procedure:** Before messaging a TA, please check the solution key and any comments left in the document.
     * **Contacts:**
-        * **HW1 Theoretical:** [Firoozeh Abrishami](../#ta-firoozeh-abrishami)
-        * **HW1 Practical:** [Shaygan Adim](../#ta-shaygan-adim)
+        * **HW1 (Theoretical):** [Firoozeh Abrishami](../#ta-firoozeh-abrishami)
+        * **HW1 (Practical):** [Shaygan Adim](../#ta-shaygan-adim)
         * **HW2 (Theoretical Q1-2, Practical Q1):** [Amir Mohammad Fakhimi](../#ta-amir-mohammad-fakhimi)
         * **HW2 (Theoretical Q3-5, Practical Q2-3):** [Mahshid Dehghani](../#ta-mahshid-dehghani)
         * **HW3 (Theoretical Q1&3, Practical Q1):** [Ali Salimi](../#ta-ali-salimi)
