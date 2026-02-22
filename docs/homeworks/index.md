@@ -70,7 +70,7 @@ Please read the following policies carefully before submitting your work. These 
     * T2, T3, P1: [Mohamad Hosein Mehdikhani](../#ta-mohamad-hosein-mehdikhani)
 
 [Download Assignment](/assets/homeworks/GM_HW4.zip){:target="_blank" .md-button .md-button--primary .disabled }
-<!-- [Download Solution](/assets/homeworks/GM_HW4_Sol.zip){:target="_blank" .md-button .disabled } -->
+[Download Solution](/assets/homeworks/GM_HW4_Sol.zip){:target="_blank" .md-button .disabled }
 
 ---
 
